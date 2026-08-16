@@ -1,0 +1,11 @@
+layer,panel_dim,panel_dim_label,external,external_label,n,rho,p
+Taxonomy_2_user,user_ideational_fluency,Ideational fluency,prop,T2 propose-new-idea,41,0.6918323103453426,5.458218045583112e-07
+Taxonomy_2_user,user_cognitive_flexibility,Cognitive flexibility,ref,T2 reframing,41,0.22976008735234035,0.1484299115072828
+Taxonomy_2_user,user_epistemic_stance_regulation,Epistemic stance regulation,cer,T2 certainty (expect negative),40,0.4030407625145048,0.00991936169679697
+Taxonomy_2_user,user_implementation_relevant_progress,Implementation-relevant progress,com,T2 commitment,40,0.059374542514859734,0.7159093306927865
+Taxonomy_2_user,user_problem_frame_development,Problem-frame development,ref,T2 reframing,41,0.20758303942107267,0.1928091418264464
+Taxonomy_2_user,user_constraint_integration,Constraint integration,con,T2 contraction,40,0.16427827031953654,0.3110871143540826
+os_pipeline_originality,user_ideational_fluency,Ideational fluency,n_ideas,n canonical ideas,36,0.5239925704637958,0.001037965255981121
+os_pipeline_originality,user_implementation_relevant_progress,Implementation-relevant progress,orig_all,orig_all distinctiveness,35,-0.30405282192995303,0.07576835849580904
+os_pipeline_originality,user_cognitive_flexibility,Cognitive flexibility,orig_cross,orig_cross distinctiveness,36,-0.45928224649230026,0.0048358921174726285
+os_pipeline_originality,user_problem_frame_development,Problem-frame development,orig_all,orig_all distinctiveness,36,-0.2903918899188905,0.08577755947792272

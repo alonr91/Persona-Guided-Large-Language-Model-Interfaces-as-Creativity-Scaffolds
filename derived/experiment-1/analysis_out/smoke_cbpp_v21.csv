@@ -1,0 +1,5 @@
+conv_id,dim,status,primary_score,cap,capped,audit_verdict,final,idea_origin,risk,n_quotes,t_primary_s,t_audit_s
+222,llm_originality_evidence,ok,7,none,7,sustain,7,user-originated,low,2,55.2,15.7
+222,user_ideational_fluency,ok,7,none,7,sustain,7,user-originated,low,3,59.7,16.1
+318,llm_originality_evidence,ok,7,none,7,sustain,7,user-originated,low,1,28.4,15.7
+318,user_ideational_fluency,ok,5,none,5,sustain,5,user-originated,low,1,28.5,15.7

@@ -1,0 +1,776 @@
+conversation_id,persona_label,quarter,n_msg,n_q,q_rate
+154,GPT (Control),Q1,3,2,0.6666666666666666
+154,GPT (Control),Q2,3,3,1.0
+154,GPT (Control),Q3,3,0,0.0
+154,GPT (Control),Q4,2,1,0.5
+155,GPT (Control),Q1,2,1,0.5
+155,GPT (Control),Q2,2,0,0.0
+155,GPT (Control),Q3,2,0,0.0
+155,GPT (Control),Q4,1,0,0.0
+157,GPT (Control),Q1,2,1,0.5
+157,GPT (Control),Q2,2,1,0.5
+157,GPT (Control),Q3,2,1,0.5
+157,GPT (Control),Q4,2,0,0.0
+158,GPT (Control),Q1,2,1,0.5
+158,GPT (Control),Q2,2,0,0.0
+158,GPT (Control),Q3,2,0,0.0
+158,GPT (Control),Q4,1,0,0.0
+159,GPT (Control),Q1,2,1,0.5
+159,GPT (Control),Q2,2,0,0.0
+159,GPT (Control),Q3,2,1,0.5
+159,GPT (Control),Q4,2,0,0.0
+160,GPT (Control),Q1,2,1,0.5
+160,GPT (Control),Q2,2,0,0.0
+160,GPT (Control),Q3,2,0,0.0
+160,GPT (Control),Q4,2,0,0.0
+161,GPT (Control),Q1,3,1,0.3333333333333333
+161,GPT (Control),Q2,2,0,0.0
+161,GPT (Control),Q3,2,0,0.0
+161,GPT (Control),Q4,2,0,0.0
+162,GPT (Control),Q1,2,1,0.5
+162,GPT (Control),Q2,2,0,0.0
+162,GPT (Control),Q3,2,0,0.0
+162,GPT (Control),Q4,1,0,0.0
+164,GPT (Control),Q1,2,1,0.5
+164,GPT (Control),Q2,1,0,0.0
+164,GPT (Control),Q3,1,0,0.0
+164,GPT (Control),Q4,1,1,1.0
+166,Convergent,Q1,2,1,0.5
+166,Convergent,Q2,1,1,1.0
+166,Convergent,Q3,1,0,0.0
+166,Convergent,Q4,1,0,0.0
+167,Convergent,Q1,2,1,0.5
+167,Convergent,Q2,2,0,0.0
+167,Convergent,Q3,2,0,0.0
+167,Convergent,Q4,1,0,0.0
+168,Convergent,Q1,2,1,0.5
+168,Convergent,Q2,1,0,0.0
+168,Convergent,Q3,2,0,0.0
+168,Convergent,Q4,1,0,0.0
+169,Convergent,Q1,2,1,0.5
+169,Convergent,Q2,2,0,0.0
+169,Convergent,Q3,2,0,0.0
+169,Convergent,Q4,1,0,0.0
+170,Convergent,Q1,2,1,0.5
+170,Convergent,Q2,2,0,0.0
+170,Convergent,Q3,2,0,0.0
+170,Convergent,Q4,2,0,0.0
+171,Convergent,Q1,4,3,0.75
+171,Convergent,Q2,3,3,1.0
+171,Convergent,Q3,3,1,0.3333333333333333
+171,Convergent,Q4,3,0,0.0
+172,Convergent,Q1,3,1,0.3333333333333333
+172,Convergent,Q2,2,0,0.0
+172,Convergent,Q3,2,0,0.0
+172,Convergent,Q4,2,0,0.0
+175,Convergent,Q1,3,1,0.3333333333333333
+175,Convergent,Q2,2,1,0.5
+175,Convergent,Q3,2,0,0.0
+175,Convergent,Q4,2,0,0.0
+176,Convergent,Q1,2,1,0.5
+176,Convergent,Q2,2,0,0.0
+176,Convergent,Q3,2,0,0.0
+176,Convergent,Q4,1,0,0.0
+180,GPT (Control),Q1,2,1,0.5
+180,GPT (Control),Q2,2,1,0.5
+180,GPT (Control),Q3,2,0,0.0
+180,GPT (Control),Q4,2,1,0.5
+182,GPT (Control),Q1,2,1,0.5
+182,GPT (Control),Q2,2,2,1.0
+182,GPT (Control),Q3,2,2,1.0
+182,GPT (Control),Q4,1,1,1.0
+183,GPT (Control),Q1,2,1,0.5
+183,GPT (Control),Q2,1,1,1.0
+183,GPT (Control),Q3,1,1,1.0
+183,GPT (Control),Q4,1,1,1.0
+184,GPT (Control),Q1,3,2,0.6666666666666666
+184,GPT (Control),Q2,2,2,1.0
+184,GPT (Control),Q3,3,3,1.0
+184,GPT (Control),Q4,2,2,1.0
+185,GPT (Control),Q1,2,1,0.5
+185,GPT (Control),Q2,1,1,1.0
+185,GPT (Control),Q3,1,0,0.0
+185,GPT (Control),Q4,1,0,0.0
+187,Divergent,Q1,2,1,0.5
+187,Divergent,Q2,1,0,0.0
+187,Divergent,Q3,2,0,0.0
+187,Divergent,Q4,1,1,1.0
+188,Divergent,Q1,2,1,0.5
+188,Divergent,Q2,1,1,1.0
+188,Divergent,Q3,1,0,0.0
+188,Divergent,Q4,1,0,0.0
+189,Divergent,Q1,2,1,0.5
+189,Divergent,Q2,2,2,1.0
+189,Divergent,Q3,2,1,0.5
+189,Divergent,Q4,2,1,0.5
+190,Divergent,Q1,2,1,0.5
+190,Divergent,Q2,2,2,1.0
+190,Divergent,Q3,2,2,1.0
+190,Divergent,Q4,1,0,0.0
+192,Divergent,Q1,3,1,0.3333333333333333
+192,Divergent,Q2,2,1,0.5
+192,Divergent,Q3,2,2,1.0
+192,Divergent,Q4,2,1,0.5
+194,BoundedRational,Q1,3,1,0.3333333333333333
+194,BoundedRational,Q2,3,3,1.0
+194,BoundedRational,Q3,3,3,1.0
+194,BoundedRational,Q4,2,2,1.0
+195,BoundedRational,Q1,2,1,0.5
+195,BoundedRational,Q2,2,1,0.5
+195,BoundedRational,Q3,2,0,0.0
+195,BoundedRational,Q4,1,0,0.0
+196,BoundedRational,Q1,2,1,0.5
+196,BoundedRational,Q2,1,1,1.0
+196,BoundedRational,Q3,2,2,1.0
+196,BoundedRational,Q4,1,0,0.0
+199,BoundedRational,Q1,3,2,0.6666666666666666
+199,BoundedRational,Q2,3,1,0.3333333333333333
+199,BoundedRational,Q3,3,0,0.0
+199,BoundedRational,Q4,2,0,0.0
+200,BoundedRational,Q1,3,2,0.6666666666666666
+200,BoundedRational,Q2,3,1,0.3333333333333333
+200,BoundedRational,Q3,3,2,0.6666666666666666
+200,BoundedRational,Q4,2,1,0.5
+201,BoundedRational,Q1,3,1,0.3333333333333333
+201,BoundedRational,Q2,3,0,0.0
+201,BoundedRational,Q3,3,0,0.0
+201,BoundedRational,Q4,3,0,0.0
+202,BoundedRational,Q1,2,1,0.5
+202,BoundedRational,Q2,2,0,0.0
+202,BoundedRational,Q3,2,0,0.0
+202,BoundedRational,Q4,1,0,0.0
+203,BoundedRational,Q1,2,1,0.5
+203,BoundedRational,Q2,1,1,1.0
+203,BoundedRational,Q3,2,1,0.5
+203,BoundedRational,Q4,1,0,0.0
+204,BoundedRational,Q1,2,1,0.5
+204,BoundedRational,Q2,2,1,0.5
+204,BoundedRational,Q3,2,0,0.0
+204,BoundedRational,Q4,2,0,0.0
+205,GPT (Control),Q1,3,1,0.3333333333333333
+205,GPT (Control),Q2,2,2,1.0
+205,GPT (Control),Q3,2,1,0.5
+205,GPT (Control),Q4,2,1,0.5
+206,GPT (Control),Q1,3,1,0.3333333333333333
+206,GPT (Control),Q2,2,1,0.5
+206,GPT (Control),Q3,2,1,0.5
+206,GPT (Control),Q4,2,2,1.0
+208,GPT (Control),Q1,4,1,0.25
+208,GPT (Control),Q2,3,0,0.0
+208,GPT (Control),Q3,3,2,0.6666666666666666
+208,GPT (Control),Q4,3,2,0.6666666666666666
+209,GPT (Control),Q1,3,1,0.3333333333333333
+209,GPT (Control),Q2,3,2,0.6666666666666666
+209,GPT (Control),Q3,3,3,1.0
+209,GPT (Control),Q4,2,2,1.0
+210,GPT (Control),Q1,4,2,0.5
+210,GPT (Control),Q2,3,2,0.6666666666666666
+210,GPT (Control),Q3,3,3,1.0
+210,GPT (Control),Q4,3,0,0.0
+211,GPT (Control),Q1,3,2,0.6666666666666666
+211,GPT (Control),Q2,2,2,1.0
+211,GPT (Control),Q3,2,2,1.0
+211,GPT (Control),Q4,2,1,0.5
+212,GPT (Control),Q1,3,2,0.6666666666666666
+212,GPT (Control),Q2,2,1,0.5
+212,GPT (Control),Q3,2,2,1.0
+212,GPT (Control),Q4,2,1,0.5
+213,GPT (Control),Q1,2,1,0.5
+213,GPT (Control),Q2,2,2,1.0
+213,GPT (Control),Q3,2,2,1.0
+213,GPT (Control),Q4,1,0,0.0
+214,GPT (Control),Q1,4,2,0.5
+214,GPT (Control),Q2,3,0,0.0
+214,GPT (Control),Q3,3,1,0.3333333333333333
+214,GPT (Control),Q4,3,1,0.3333333333333333
+216,Rational,Q1,2,1,0.5
+216,Rational,Q2,2,1,0.5
+216,Rational,Q3,2,1,0.5
+216,Rational,Q4,2,0,0.0
+217,Rational,Q1,2,1,0.5
+217,Rational,Q2,2,0,0.0
+217,Rational,Q3,2,0,0.0
+217,Rational,Q4,1,0,0.0
+218,Rational,Q1,2,1,0.5
+218,Rational,Q2,1,0,0.0
+218,Rational,Q3,2,0,0.0
+218,Rational,Q4,1,0,0.0
+219,Rational,Q1,3,1,0.3333333333333333
+219,Rational,Q2,3,0,0.0
+219,Rational,Q3,3,0,0.0
+219,Rational,Q4,3,0,0.0
+220,Rational,Q1,3,1,0.3333333333333333
+220,Rational,Q2,2,0,0.0
+220,Rational,Q3,2,0,0.0
+220,Rational,Q4,2,0,0.0
+221,Rational,Q1,3,1,0.3333333333333333
+221,Rational,Q2,3,0,0.0
+221,Rational,Q3,3,1,0.3333333333333333
+221,Rational,Q4,3,0,0.0
+222,Rational,Q1,1,0,0.0
+222,Rational,Q2,1,1,1.0
+222,Rational,Q3,1,0,0.0
+222,Rational,Q4,1,0,0.0
+223,Rational,Q1,2,1,0.5
+223,Rational,Q2,2,2,1.0
+223,Rational,Q3,2,1,0.5
+223,Rational,Q4,1,0,0.0
+224,Rational,Q1,4,1,0.25
+224,Rational,Q2,4,1,0.25
+224,Rational,Q3,4,1,0.25
+224,Rational,Q4,3,0,0.0
+226,GPT (Control),Q1,2,1,0.5
+226,GPT (Control),Q2,1,1,1.0
+226,GPT (Control),Q3,2,1,0.5
+226,GPT (Control),Q4,1,0,0.0
+227,GPT (Control),Q1,3,1,0.3333333333333333
+227,GPT (Control),Q2,2,2,1.0
+227,GPT (Control),Q3,3,0,0.0
+227,GPT (Control),Q4,2,0,0.0
+229,GPT (Control),Q1,3,2,0.6666666666666666
+229,GPT (Control),Q2,2,1,0.5
+229,GPT (Control),Q3,2,1,0.5
+229,GPT (Control),Q4,2,2,1.0
+230,GPT (Control),Q1,1,0,0.0
+230,GPT (Control),Q2,1,1,1.0
+230,GPT (Control),Q3,1,1,1.0
+230,GPT (Control),Q4,1,1,1.0
+231,GPT (Control),Q1,2,1,0.5
+231,GPT (Control),Q2,2,1,0.5
+231,GPT (Control),Q3,2,2,1.0
+231,GPT (Control),Q4,2,2,1.0
+232,GPT (Control),Q1,2,1,0.5
+232,GPT (Control),Q2,1,0,0.0
+232,GPT (Control),Q3,1,1,1.0
+232,GPT (Control),Q4,1,1,1.0
+233,GPT (Control),Q1,2,0,0.0
+233,GPT (Control),Q2,1,0,0.0
+233,GPT (Control),Q3,1,0,0.0
+233,GPT (Control),Q4,1,0,0.0
+234,GPT (Control),Q1,2,1,0.5
+234,GPT (Control),Q2,2,2,1.0
+234,GPT (Control),Q3,2,2,1.0
+234,GPT (Control),Q4,2,1,0.5
+236,GPT (Control),Q1,3,1,0.3333333333333333
+236,GPT (Control),Q2,3,2,0.6666666666666666
+236,GPT (Control),Q3,3,1,0.3333333333333333
+236,GPT (Control),Q4,3,1,0.3333333333333333
+241,GPT (Control),Q1,3,1,0.3333333333333333
+241,GPT (Control),Q2,2,0,0.0
+241,GPT (Control),Q3,2,1,0.5
+241,GPT (Control),Q4,2,0,0.0
+244,GPT (Control),Q1,2,1,0.5
+244,GPT (Control),Q2,2,2,1.0
+244,GPT (Control),Q3,2,2,1.0
+244,GPT (Control),Q4,1,1,1.0
+261,Divergent,Q1,2,1,0.5
+261,Divergent,Q2,1,1,1.0
+261,Divergent,Q3,1,1,1.0
+261,Divergent,Q4,1,1,1.0
+279,Divergent,Q1,2,1,0.5
+279,Divergent,Q2,1,0,0.0
+279,Divergent,Q3,1,0,0.0
+279,Divergent,Q4,1,0,0.0
+295,Divergent,Q1,2,1,0.5
+295,Divergent,Q2,1,0,0.0
+295,Divergent,Q3,2,0,0.0
+295,Divergent,Q4,1,0,0.0
+296,Divergent,Q1,3,1,0.3333333333333333
+296,Divergent,Q2,2,1,0.5
+296,Divergent,Q3,3,2,0.6666666666666666
+296,Divergent,Q4,2,2,1.0
+297,Divergent,Q1,3,2,0.6666666666666666
+297,Divergent,Q2,2,1,0.5
+297,Divergent,Q3,2,0,0.0
+297,Divergent,Q4,2,0,0.0
+298,Divergent,Q1,3,1,0.3333333333333333
+298,Divergent,Q2,2,0,0.0
+298,Divergent,Q3,2,0,0.0
+298,Divergent,Q4,2,1,0.5
+299,Divergent,Q1,3,2,0.6666666666666666
+299,Divergent,Q2,2,1,0.5
+299,Divergent,Q3,2,1,0.5
+299,Divergent,Q4,2,1,0.5
+300,Divergent,Q1,3,1,0.3333333333333333
+300,Divergent,Q2,2,1,0.5
+300,Divergent,Q3,3,0,0.0
+300,Divergent,Q4,2,0,0.0
+301,Divergent,Q1,2,1,0.5
+301,Divergent,Q2,1,0,0.0
+301,Divergent,Q3,2,0,0.0
+301,Divergent,Q4,1,0,0.0
+303,GPT (Control),Q1,3,1,0.3333333333333333
+303,GPT (Control),Q2,2,1,0.5
+303,GPT (Control),Q3,3,2,0.6666666666666666
+303,GPT (Control),Q4,2,0,0.0
+304,GPT (Control),Q1,4,1,0.25
+304,GPT (Control),Q2,4,4,1.0
+304,GPT (Control),Q3,4,3,0.75
+304,GPT (Control),Q4,4,3,0.75
+305,GPT (Control),Q1,3,2,0.6666666666666666
+305,GPT (Control),Q2,2,2,1.0
+305,GPT (Control),Q3,3,3,1.0
+305,GPT (Control),Q4,2,0,0.0
+306,GPT (Control),Q1,3,2,0.6666666666666666
+306,GPT (Control),Q2,2,2,1.0
+306,GPT (Control),Q3,3,2,0.6666666666666666
+306,GPT (Control),Q4,2,2,1.0
+307,GPT (Control),Q1,3,1,0.3333333333333333
+307,GPT (Control),Q2,3,1,0.3333333333333333
+307,GPT (Control),Q3,3,3,1.0
+307,GPT (Control),Q4,2,0,0.0
+308,GPT (Control),Q1,4,2,0.5
+308,GPT (Control),Q2,3,2,0.6666666666666666
+308,GPT (Control),Q3,3,1,0.3333333333333333
+308,GPT (Control),Q4,3,2,0.6666666666666666
+309,GPT (Control),Q1,3,1,0.3333333333333333
+309,GPT (Control),Q2,2,1,0.5
+309,GPT (Control),Q3,2,0,0.0
+309,GPT (Control),Q4,2,0,0.0
+311,Convergent,Q1,2,1,0.5
+311,Convergent,Q2,1,0,0.0
+311,Convergent,Q3,2,0,0.0
+311,Convergent,Q4,1,0,0.0
+313,Convergent,Q1,2,1,0.5
+313,Convergent,Q2,2,0,0.0
+313,Convergent,Q3,2,0,0.0
+313,Convergent,Q4,1,0,0.0
+314,Convergent,Q1,3,2,0.6666666666666666
+314,Convergent,Q2,2,1,0.5
+314,Convergent,Q3,2,0,0.0
+314,Convergent,Q4,2,0,0.0
+315,Convergent,Q1,3,1,0.3333333333333333
+315,Convergent,Q2,3,0,0.0
+315,Convergent,Q3,3,3,1.0
+315,Convergent,Q4,2,0,0.0
+316,Convergent,Q1,2,1,0.5
+316,Convergent,Q2,2,0,0.0
+316,Convergent,Q3,2,0,0.0
+316,Convergent,Q4,2,0,0.0
+318,Convergent,Q1,1,0,0.0
+318,Convergent,Q2,1,1,1.0
+318,Convergent,Q3,1,1,1.0
+318,Convergent,Q4,1,0,0.0
+319,Convergent,Q1,2,1,0.5
+319,Convergent,Q2,1,0,0.0
+319,Convergent,Q3,2,0,0.0
+319,Convergent,Q4,1,0,0.0
+320,GPT (Control),Q1,2,1,0.5
+320,GPT (Control),Q2,1,1,1.0
+320,GPT (Control),Q3,1,0,0.0
+320,GPT (Control),Q4,1,1,1.0
+321,GPT (Control),Q1,2,1,0.5
+321,GPT (Control),Q2,1,0,0.0
+321,GPT (Control),Q3,2,0,0.0
+321,GPT (Control),Q4,1,0,0.0
+323,GPT (Control),Q1,3,1,0.3333333333333333
+323,GPT (Control),Q2,2,0,0.0
+323,GPT (Control),Q3,2,0,0.0
+323,GPT (Control),Q4,2,1,0.5
+324,GPT (Control),Q1,2,1,0.5
+324,GPT (Control),Q2,2,2,1.0
+324,GPT (Control),Q3,2,2,1.0
+324,GPT (Control),Q4,2,1,0.5
+325,GPT (Control),Q1,2,1,0.5
+325,GPT (Control),Q2,2,1,0.5
+325,GPT (Control),Q3,2,2,1.0
+325,GPT (Control),Q4,2,0,0.0
+326,GPT (Control),Q1,2,1,0.5
+326,GPT (Control),Q2,2,1,0.5
+326,GPT (Control),Q3,2,0,0.0
+326,GPT (Control),Q4,1,1,1.0
+327,GPT (Control),Q1,2,1,0.5
+327,GPT (Control),Q2,2,1,0.5
+327,GPT (Control),Q3,2,1,0.5
+327,GPT (Control),Q4,2,1,0.5
+328,GPT (Control),Q1,2,1,0.5
+328,GPT (Control),Q2,2,2,1.0
+328,GPT (Control),Q3,2,2,1.0
+328,GPT (Control),Q4,1,1,1.0
+329,GPT (Control),Q1,4,3,0.75
+329,GPT (Control),Q2,3,2,0.6666666666666666
+329,GPT (Control),Q3,3,2,0.6666666666666666
+329,GPT (Control),Q4,3,1,0.3333333333333333
+330,GPT (Control),Q1,2,1,0.5
+330,GPT (Control),Q2,1,0,0.0
+330,GPT (Control),Q3,2,2,1.0
+330,GPT (Control),Q4,1,1,1.0
+332,GPT (Control),Q1,3,2,0.6666666666666666
+332,GPT (Control),Q2,3,3,1.0
+332,GPT (Control),Q3,3,1,0.3333333333333333
+332,GPT (Control),Q4,2,1,0.5
+333,GPT (Control),Q1,3,2,0.6666666666666666
+333,GPT (Control),Q2,2,1,0.5
+333,GPT (Control),Q3,2,2,1.0
+333,GPT (Control),Q4,2,1,0.5
+334,GPT (Control),Q1,3,1,0.3333333333333333
+334,GPT (Control),Q2,2,0,0.0
+334,GPT (Control),Q3,3,0,0.0
+334,GPT (Control),Q4,2,0,0.0
+335,GPT (Control),Q1,2,1,0.5
+335,GPT (Control),Q2,1,0,0.0
+335,GPT (Control),Q3,2,0,0.0
+335,GPT (Control),Q4,1,0,0.0
+336,GPT (Control),Q1,4,2,0.5
+336,GPT (Control),Q2,3,3,1.0
+336,GPT (Control),Q3,4,3,0.75
+336,GPT (Control),Q4,3,1,0.3333333333333333
+337,GPT (Control),Q1,3,2,0.6666666666666666
+337,GPT (Control),Q2,2,0,0.0
+337,GPT (Control),Q3,3,1,0.3333333333333333
+337,GPT (Control),Q4,2,0,0.0
+338,GPT (Control),Q1,3,2,0.6666666666666666
+338,GPT (Control),Q2,2,2,1.0
+338,GPT (Control),Q3,3,3,1.0
+338,GPT (Control),Q4,2,2,1.0
+339,GPT (Control),Q1,4,3,0.75
+339,GPT (Control),Q2,3,2,0.6666666666666666
+339,GPT (Control),Q3,4,3,0.75
+339,GPT (Control),Q4,3,1,0.3333333333333333
+340,Divergent,Q1,2,1,0.5
+340,Divergent,Q2,2,2,1.0
+340,Divergent,Q3,2,2,1.0
+340,Divergent,Q4,1,1,1.0
+341,Divergent,Q1,2,1,0.5
+341,Divergent,Q2,2,1,0.5
+341,Divergent,Q3,2,1,0.5
+341,Divergent,Q4,1,0,0.0
+342,Divergent,Q1,2,1,0.5
+342,Divergent,Q2,2,1,0.5
+342,Divergent,Q3,2,0,0.0
+342,Divergent,Q4,2,0,0.0
+343,Divergent,Q1,3,2,0.6666666666666666
+343,Divergent,Q2,2,0,0.0
+343,Divergent,Q3,3,1,0.3333333333333333
+343,Divergent,Q4,2,0,0.0
+344,Divergent,Q1,3,2,0.6666666666666666
+344,Divergent,Q2,2,0,0.0
+344,Divergent,Q3,3,0,0.0
+344,Divergent,Q4,2,0,0.0
+346,Divergent,Q1,3,2,0.6666666666666666
+346,Divergent,Q2,2,1,0.5
+346,Divergent,Q3,2,1,0.5
+346,Divergent,Q4,2,1,0.5
+347,Divergent,Q1,2,1,0.5
+347,Divergent,Q2,2,0,0.0
+347,Divergent,Q3,2,0,0.0
+347,Divergent,Q4,2,0,0.0
+348,Divergent,Q1,4,2,0.5
+348,Divergent,Q2,3,0,0.0
+348,Divergent,Q3,4,0,0.0
+348,Divergent,Q4,3,0,0.0
+349,Divergent,Q1,2,1,0.5
+349,Divergent,Q2,2,0,0.0
+349,Divergent,Q3,2,0,0.0
+349,Divergent,Q4,2,0,0.0
+350,Divergent,Q1,2,1,0.5
+350,Divergent,Q2,1,0,0.0
+350,Divergent,Q3,2,0,0.0
+350,Divergent,Q4,1,0,0.0
+351,Divergent,Q1,2,1,0.5
+351,Divergent,Q2,2,1,0.5
+351,Divergent,Q3,2,0,0.0
+351,Divergent,Q4,1,0,0.0
+352,GPT (Control),Q1,3,2,0.6666666666666666
+352,GPT (Control),Q2,3,2,0.6666666666666666
+352,GPT (Control),Q3,3,2,0.6666666666666666
+352,GPT (Control),Q4,2,0,0.0
+354,GPT (Control),Q1,3,2,0.6666666666666666
+354,GPT (Control),Q2,2,0,0.0
+354,GPT (Control),Q3,3,0,0.0
+354,GPT (Control),Q4,2,0,0.0
+355,GPT (Control),Q1,2,1,0.5
+355,GPT (Control),Q2,1,0,0.0
+355,GPT (Control),Q3,1,1,1.0
+355,GPT (Control),Q4,1,1,1.0
+356,GPT (Control),Q1,2,1,0.5
+356,GPT (Control),Q2,2,2,1.0
+356,GPT (Control),Q3,2,1,0.5
+356,GPT (Control),Q4,1,0,0.0
+357,GPT (Control),Q1,2,1,0.5
+357,GPT (Control),Q2,1,1,1.0
+357,GPT (Control),Q3,2,1,0.5
+357,GPT (Control),Q4,1,1,1.0
+358,GPT (Control),Q1,2,1,0.5
+358,GPT (Control),Q2,2,2,1.0
+358,GPT (Control),Q3,2,2,1.0
+358,GPT (Control),Q4,2,0,0.0
+361,Convergent,Q1,3,1,0.3333333333333333
+361,Convergent,Q2,3,0,0.0
+361,Convergent,Q3,3,0,0.0
+361,Convergent,Q4,2,0,0.0
+362,Convergent,Q1,3,1,0.3333333333333333
+362,Convergent,Q2,2,0,0.0
+362,Convergent,Q3,2,0,0.0
+362,Convergent,Q4,2,0,0.0
+363,Convergent,Q1,3,1,0.3333333333333333
+363,Convergent,Q2,3,0,0.0
+363,Convergent,Q3,3,0,0.0
+363,Convergent,Q4,2,0,0.0
+364,Convergent,Q1,3,1,0.3333333333333333
+364,Convergent,Q2,3,0,0.0
+364,Convergent,Q3,3,0,0.0
+364,Convergent,Q4,2,0,0.0
+365,Convergent,Q1,2,1,0.5
+365,Convergent,Q2,1,0,0.0
+365,Convergent,Q3,2,1,0.5
+365,Convergent,Q4,1,1,1.0
+366,Convergent,Q1,2,1,0.5
+366,Convergent,Q2,2,0,0.0
+366,Convergent,Q3,2,1,0.5
+366,Convergent,Q4,1,1,1.0
+368,Convergent,Q1,2,1,0.5
+368,Convergent,Q2,2,0,0.0
+368,Convergent,Q3,2,0,0.0
+368,Convergent,Q4,1,0,0.0
+370,Convergent,Q1,5,2,0.4
+370,Convergent,Q2,4,0,0.0
+370,Convergent,Q3,5,0,0.0
+370,Convergent,Q4,4,0,0.0
+372,Convergent,Q1,6,1,0.16666666666666666
+372,Convergent,Q2,5,1,0.2
+372,Convergent,Q3,6,0,0.0
+372,Convergent,Q4,5,0,0.0
+373,Convergent,Q1,3,1,0.3333333333333333
+373,Convergent,Q2,3,0,0.0
+373,Convergent,Q3,3,0,0.0
+373,Convergent,Q4,2,0,0.0
+374,Convergent,Q1,3,1,0.3333333333333333
+374,Convergent,Q2,2,0,0.0
+374,Convergent,Q3,2,0,0.0
+374,Convergent,Q4,2,0,0.0
+375,Convergent,Q1,3,1,0.3333333333333333
+375,Convergent,Q2,2,0,0.0
+375,Convergent,Q3,2,0,0.0
+375,Convergent,Q4,2,0,0.0
+377,Convergent,Q1,3,1,0.3333333333333333
+377,Convergent,Q2,3,0,0.0
+377,Convergent,Q3,3,0,0.0
+377,Convergent,Q4,2,0,0.0
+378,Convergent,Q1,2,1,0.5
+378,Convergent,Q2,2,0,0.0
+378,Convergent,Q3,2,1,0.5
+378,Convergent,Q4,2,0,0.0
+380,Convergent,Q1,3,1,0.3333333333333333
+380,Convergent,Q2,3,0,0.0
+380,Convergent,Q3,3,0,0.0
+380,Convergent,Q4,3,0,0.0
+381,Convergent,Q1,2,1,0.5
+381,Convergent,Q2,2,0,0.0
+381,Convergent,Q3,2,0,0.0
+381,Convergent,Q4,2,0,0.0
+382,Convergent,Q1,3,1,0.3333333333333333
+382,Convergent,Q2,2,0,0.0
+382,Convergent,Q3,3,1,0.3333333333333333
+382,Convergent,Q4,2,0,0.0
+384,Convergent,Q1,4,1,0.25
+384,Convergent,Q2,3,0,0.0
+384,Convergent,Q3,4,0,0.0
+384,Convergent,Q4,3,0,0.0
+385,Convergent,Q1,3,1,0.3333333333333333
+385,Convergent,Q2,2,0,0.0
+385,Convergent,Q3,3,0,0.0
+385,Convergent,Q4,2,0,0.0
+386,Convergent,Q1,3,1,0.3333333333333333
+386,Convergent,Q2,3,0,0.0
+386,Convergent,Q3,3,0,0.0
+386,Convergent,Q4,3,0,0.0
+390,GPT (Control),Q1,2,1,0.5
+390,GPT (Control),Q2,1,0,0.0
+390,GPT (Control),Q3,2,0,0.0
+390,GPT (Control),Q4,1,0,0.0
+391,GPT (Control),Q1,3,2,0.6666666666666666
+391,GPT (Control),Q2,3,1,0.3333333333333333
+391,GPT (Control),Q3,3,0,0.0
+391,GPT (Control),Q4,2,0,0.0
+392,GPT (Control),Q1,6,1,0.16666666666666666
+392,GPT (Control),Q2,5,0,0.0
+392,GPT (Control),Q3,6,0,0.0
+392,GPT (Control),Q4,5,0,0.0
+393,GPT (Control),Q1,3,2,0.6666666666666666
+393,GPT (Control),Q2,3,0,0.0
+393,GPT (Control),Q3,3,1,0.3333333333333333
+393,GPT (Control),Q4,2,0,0.0
+394,GPT (Control),Q1,3,2,0.6666666666666666
+394,GPT (Control),Q2,2,2,1.0
+394,GPT (Control),Q3,2,2,1.0
+394,GPT (Control),Q4,2,1,0.5
+396,GPT (Control),Q1,3,1,0.3333333333333333
+396,GPT (Control),Q2,3,0,0.0
+396,GPT (Control),Q3,3,0,0.0
+396,GPT (Control),Q4,2,0,0.0
+397,GPT (Control),Q1,3,1,0.3333333333333333
+397,GPT (Control),Q2,2,2,1.0
+397,GPT (Control),Q3,3,2,0.6666666666666666
+397,GPT (Control),Q4,2,0,0.0
+398,GPT (Control),Q1,3,1,0.3333333333333333
+398,GPT (Control),Q2,2,1,0.5
+398,GPT (Control),Q3,3,0,0.0
+398,GPT (Control),Q4,2,0,0.0
+399,GPT (Control),Q1,2,1,0.5
+399,GPT (Control),Q2,2,0,0.0
+399,GPT (Control),Q3,2,0,0.0
+399,GPT (Control),Q4,1,0,0.0
+401,GPT (Control),Q1,6,1,0.16666666666666666
+401,GPT (Control),Q2,5,3,0.6
+401,GPT (Control),Q3,5,2,0.4
+401,GPT (Control),Q4,5,1,0.2
+402,GPT (Control),Q1,5,2,0.4
+402,GPT (Control),Q2,4,0,0.0
+402,GPT (Control),Q3,5,2,0.4
+402,GPT (Control),Q4,4,2,0.5
+403,GPT (Control),Q1,4,2,0.5
+403,GPT (Control),Q2,3,2,0.6666666666666666
+403,GPT (Control),Q3,3,2,0.6666666666666666
+403,GPT (Control),Q4,3,3,1.0
+404,GPT (Control),Q1,3,1,0.3333333333333333
+404,GPT (Control),Q2,3,0,0.0
+404,GPT (Control),Q3,3,0,0.0
+404,GPT (Control),Q4,2,0,0.0
+406,GPT (Control),Q1,2,1,0.5
+406,GPT (Control),Q2,1,1,1.0
+406,GPT (Control),Q3,2,0,0.0
+406,GPT (Control),Q4,1,1,1.0
+411,Divergent,Q1,2,1,0.5
+411,Divergent,Q2,1,0,0.0
+411,Divergent,Q3,1,0,0.0
+411,Divergent,Q4,1,0,0.0
+413,Divergent,Q1,2,1,0.5
+413,Divergent,Q2,1,0,0.0
+413,Divergent,Q3,1,0,0.0
+413,Divergent,Q4,1,0,0.0
+414,Divergent,Q1,2,1,0.5
+414,Divergent,Q2,1,0,0.0
+414,Divergent,Q3,2,1,0.5
+414,Divergent,Q4,1,0,0.0
+415,Divergent,Q1,2,1,0.5
+415,Divergent,Q2,1,0,0.0
+415,Divergent,Q3,1,0,0.0
+415,Divergent,Q4,1,0,0.0
+416,Divergent,Q1,4,2,0.5
+416,Divergent,Q2,3,2,0.6666666666666666
+416,Divergent,Q3,3,1,0.3333333333333333
+416,Divergent,Q4,3,2,0.6666666666666666
+418,Divergent,Q1,2,1,0.5
+418,Divergent,Q2,1,0,0.0
+418,Divergent,Q3,1,0,0.0
+418,Divergent,Q4,1,0,0.0
+419,GPT (Control),Q1,2,1,0.5
+419,GPT (Control),Q2,1,1,1.0
+419,GPT (Control),Q3,1,1,1.0
+419,GPT (Control),Q4,1,1,1.0
+420,GPT (Control),Q1,3,1,0.3333333333333333
+420,GPT (Control),Q2,3,0,0.0
+420,GPT (Control),Q3,3,1,0.3333333333333333
+420,GPT (Control),Q4,3,2,0.6666666666666666
+423,GPT (Control),Q1,2,1,0.5
+423,GPT (Control),Q2,2,1,0.5
+423,GPT (Control),Q3,2,1,0.5
+423,GPT (Control),Q4,1,1,1.0
+425,GPT (Control),Q1,2,1,0.5
+425,GPT (Control),Q2,2,2,1.0
+425,GPT (Control),Q3,2,1,0.5
+425,GPT (Control),Q4,1,1,1.0
+426,GPT (Control),Q1,2,1,0.5
+426,GPT (Control),Q2,2,0,0.0
+426,GPT (Control),Q3,2,1,0.5
+426,GPT (Control),Q4,1,1,1.0
+428,GPT (Control),Q1,2,1,0.5
+428,GPT (Control),Q2,2,0,0.0
+428,GPT (Control),Q3,2,1,0.5
+428,GPT (Control),Q4,1,0,0.0
+429,GPT (Control),Q1,3,1,0.3333333333333333
+429,GPT (Control),Q2,2,1,0.5
+429,GPT (Control),Q3,3,1,0.3333333333333333
+429,GPT (Control),Q4,2,0,0.0
+431,GPT (Control),Q1,5,3,0.6
+431,GPT (Control),Q2,4,2,0.5
+431,GPT (Control),Q3,4,3,0.75
+431,GPT (Control),Q4,4,1,0.25
+432,GPT (Control),Q1,2,1,0.5
+432,GPT (Control),Q2,2,2,1.0
+432,GPT (Control),Q3,2,0,0.0
+432,GPT (Control),Q4,2,0,0.0
+433,GPT (Control),Q1,3,2,0.6666666666666666
+433,GPT (Control),Q2,2,2,1.0
+433,GPT (Control),Q3,3,3,1.0
+433,GPT (Control),Q4,2,2,1.0
+434,GPT (Control),Q1,3,1,0.3333333333333333
+434,GPT (Control),Q2,2,1,0.5
+434,GPT (Control),Q3,2,1,0.5
+434,GPT (Control),Q4,2,1,0.5
+436,GPT (Control),Q1,2,0,0.0
+436,GPT (Control),Q2,1,1,1.0
+436,GPT (Control),Q3,2,0,0.0
+436,GPT (Control),Q4,1,0,0.0
+437,GPT (Control),Q1,1,0,0.0
+437,GPT (Control),Q2,1,1,1.0
+437,GPT (Control),Q3,1,0,0.0
+439,Divergent,Q1,4,1,0.25
+439,Divergent,Q2,3,1,0.3333333333333333
+439,Divergent,Q3,3,0,0.0
+439,Divergent,Q4,3,0,0.0
+440,Divergent,Q1,2,1,0.5
+440,Divergent,Q2,2,0,0.0
+440,Divergent,Q3,2,0,0.0
+440,Divergent,Q4,1,0,0.0
+441,Divergent,Q1,3,1,0.3333333333333333
+441,Divergent,Q2,2,0,0.0
+441,Divergent,Q3,2,1,0.5
+441,Divergent,Q4,2,0,0.0
+442,Divergent,Q1,2,1,0.5
+442,Divergent,Q2,2,0,0.0
+442,Divergent,Q3,2,0,0.0
+442,Divergent,Q4,1,0,0.0
+443,Divergent,Q1,3,1,0.3333333333333333
+443,Divergent,Q2,2,0,0.0
+443,Divergent,Q3,2,0,0.0
+443,Divergent,Q4,2,0,0.0
+444,Divergent,Q1,2,1,0.5
+444,Divergent,Q2,1,0,0.0
+444,Divergent,Q3,2,2,1.0
+444,Divergent,Q4,1,0,0.0
+445,Divergent,Q1,2,1,0.5
+445,Divergent,Q2,1,1,1.0
+445,Divergent,Q3,1,1,1.0
+445,Divergent,Q4,1,1,1.0
+466,Convergent,Q1,2,1,0.5
+466,Convergent,Q2,2,1,0.5
+466,Convergent,Q3,2,0,0.0
+466,Convergent,Q4,1,0,0.0
+467,Convergent,Q1,3,1,0.3333333333333333
+467,Convergent,Q2,2,0,0.0
+467,Convergent,Q3,2,0,0.0
+467,Convergent,Q4,2,1,0.5
+468,Convergent,Q1,2,1,0.5
+468,Convergent,Q2,2,0,0.0
+468,Convergent,Q3,2,2,1.0
+468,Convergent,Q4,2,1,0.5
+469,Convergent,Q1,2,1,0.5
+469,Convergent,Q2,2,0,0.0
+469,Convergent,Q3,2,0,0.0
+469,Convergent,Q4,1,0,0.0
+470,GPT (Control),Q1,3,1,0.3333333333333333
+470,GPT (Control),Q2,2,1,0.5
+470,GPT (Control),Q3,2,0,0.0
+470,GPT (Control),Q4,2,1,0.5
+471,GPT (Control),Q1,2,1,0.5
+471,GPT (Control),Q2,1,0,0.0
+471,GPT (Control),Q3,2,0,0.0
+471,GPT (Control),Q4,1,0,0.0
+472,GPT (Control),Q1,2,1,0.5
+472,GPT (Control),Q2,2,2,1.0
+472,GPT (Control),Q3,2,1,0.5
+472,GPT (Control),Q4,2,0,0.0
+473,GPT (Control),Q1,2,1,0.5
+473,GPT (Control),Q2,2,2,1.0
+473,GPT (Control),Q3,2,2,1.0
+473,GPT (Control),Q4,2,2,1.0
+474,Convergent,Q1,2,1,0.5
+474,Convergent,Q2,2,0,0.0
+474,Convergent,Q3,2,0,0.0
+474,Convergent,Q4,1,0,0.0
+475,GPT (Control),Q1,2,1,0.5
+475,GPT (Control),Q2,1,0,0.0
+475,GPT (Control),Q3,1,0,0.0
+475,GPT (Control),Q4,1,0,0.0

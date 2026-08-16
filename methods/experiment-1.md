@@ -1,0 +1,28 @@
+# Experiment 1 method specifications
+
+> Reproduced from the thesis appendices. Section numbers are those of the reviewed draft.
+
+
+## A.2 Taxonomy 1 lexicons and manipulation-fidelity audit
+
+Appendix A.2 (supplementary file) reproduces the closed-taxonomy rule-based stance lexicon used to compute the Taxonomy 1 manipulation-fidelity audit (§4.3.2). It contains: (i) the keyword regular-expression list for each of the seven move-type tags (propose-new-idea, critique, compare, clarify, commit, reframe, question); (ii) the assistant- and user-side density heatmap by persona family that supports the manipulation-fidelity claim in §4.4.1 but is not used for inferential testing; (iii) per-tag mean densities by condition × family × speaker, with bootstrap confidence intervals; and (iv) the persona-recognition audit (argmax hit-rate against the 25% chance baseline and the matched-versus-others mean-score discrimination test) reported in §4.4.1. The figures and tables in this appendix are descriptive; their role is to make the closed taxonomy auditable rather than to estimate effect sizes (effect sizes are in Table 4.4 via Taxonomy 2). Where Taxonomy 1 and Taxonomy 2 diverge, Taxonomy 2 is used in the main text as the primary model-assisted graded inferential layer and Taxonomy 1 is retained as a transparent robustness check; the primary Taxonomy 2 model is condition-blind (§4.3.2); the enriched variant with persona-family features is reported only as a robustness comparator in Appendix A.3.
+
+
+## A.3 Taxonomy 2 classifier specification and diagnostics
+
+Appendix A.3 (supplementary file) reproduces the five-stage Taxonomy 2 pipeline used for the condition-blind primary model and the enriched robustness comparator. It contains: (i) the SBERT encoder specification (sentence-transformers/all-MiniLM-L6-v2; 384-dim; L2-normalised); (ii) the stratified gold-sample protocol (target ≈ 400 turns, n ≈ 300 after deduplication; strata = condition × persona family × speaker × turn-position quartile; up to 10 turns per non-empty stratum; seed = 0); (iii) the Claude (sonnet-class) coding rubric for each of the seven 0–3 ordinal constructs and the two auxiliary categoricals, with anchor exemplars and forced rationale per dimension; (iv) the supervised-propagation model specification for both the condition-blind primary model (Gradient-Boosting Regressor; 200 trees; max depth 3; learning rate 0.05; feature vector = 384-d SBERT embedding + 9 lexical cues + speaker one-hot + normalised turn-position; KFold cross-validation, shuffle, seed = 0) and the enriched robustness variant (same as primary plus a persona-family one-hot); (v) per-construct CV R² and CV accuracy diagnostics for both variants, with sensitivity analyses; and (vi) the side-by-side paired dz table (analysisout/taxonomy2blindvsenricheddz.csv) reported in §4.3.2 and §4.5.5 item 3. The condition-blind re-run was the highest-priority methodological audit named in earlier-version limitations; here the chapter promotes that model to primary, and the enriched model is reported as a robustness comparator.
+
+
+## A.4 Product-layer idea extraction pipeline
+
+Appendix A.4 (supplementary file) reproduces the five-agent open-source extraction pipeline referenced in §4.3.3. It contains: (i) the agent specifications (extract, filter, consolidate, validate-quote, cluster); (ii) the rule-based pre-filters that gate the LLM stages (challenge-restatement removal, assistant-echo removal, and title-evidence consistency check); (iii) the originality measure specification, origsame (mean cosine distance between a participant's portfolio centroid and same-condition peers), origall (distance to all other participants), and orig_cross (distance to the nearest participant in the opposite condition); (iv) per-participant idea counts and centroid statistics; and (v) the n = 87 (originality × stance) and n = 16 (formal mediation) subsets used in §4.4.7.
+
+
+## A.5 Regulated LLM-rubric proxy: full per-criterion effects and validation audits
+
+Appendix A.5 (supplementary file) reproduces the regulated LLM-rubric proxy layer summarised in §4.3.4 and §4.4.8. It contains: (i) the full twelve-criterion rubric definitions and anchor exemplars; (ii) the two paraphrased Qwen prompt variants used by Scorer A and Scorer B; (iii) the Gemini Scorer C prompt and cross-model robustness protocol; (iv) the per-criterion Hedges' g and Benjamini–Hochberg FDR-corrected q values; (v) the positive-control results (Divergent > Rational on explorationopening; Rational > Divergent on evaluativediscipline); (vi) the length-bias regression results on each criterion; (vii) the A–B disagreement audit on the dual-scored subset; and (viii) the Qwen–Gemini agreement diagnostics (quadratic-weighted κ = 0.69; Spearman ρ = 0.77; sign agreement on 47 of 48 family-vs-standard LLM contrasts). Following §2.10, all rubric outputs are reported as proxy triangulation, not as externally judged creativity.
+
+
+## A.6 Supplementary semantic-process measures
+
+Appendix A.6 (supplementary file) reproduces supplementary semantic-process measures demoted from the main Results. It contains: (i) the turn-to-turn semantic distance specification (mean cosine distance between consecutive SBERT-encoded turns, computed conversation-level and per-speaker side); (ii) the GPT-2 per-token surprise specification (GPT-2 small, 124M; truncated 900-token context; summed per-token negative log-likelihood divided by message length); and (iii) sensitivity analyses against alternative embedding models. These measures are reported as supplementary triangulation of the RQ2 process findings because the underlying semantic metrics are harder to interpret behaviourally than the construct-level findings of §4.4.2–§4.4.4.

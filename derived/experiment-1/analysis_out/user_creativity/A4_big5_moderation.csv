@@ -1,0 +1,141 @@
+family,construct,label,trait,n,rho,p
+Divergent,exp,Expansion,Extraversion,38,0.27304949135225587,0.09718617917804186
+Divergent,exp,Expansion,Agreeableness,38,-0.24155301834498846,0.14400810694021368
+Divergent,exp,Expansion,Conscientiousness,38,-0.019880483616332503,0.9056958520423775
+Divergent,exp,Expansion,Negative Emotionality,38,0.033209433456166004,0.8430978262997447
+Divergent,exp,Expansion,Open-Mindedness,38,0.10284557538211543,0.5389264380097263
+Divergent,con,Contraction,Extraversion,38,0.12208992591537507,0.4652617085087718
+Divergent,con,Contraction,Agreeableness,38,-0.282256703756713,0.08599186506587136
+Divergent,con,Contraction,Conscientiousness,38,-0.03909828444545393,0.8157180931745548
+Divergent,con,Contraction,Negative Emotionality,38,0.1378025992915327,0.4093475236062024
+Divergent,con,Contraction,Open-Mindedness,38,0.10977647285351885,0.5117665374782978
+Divergent,cri,Critique,Extraversion,38,-0.14710293420309178,0.3781447498224734
+Divergent,cri,Critique,Agreeableness,38,0.16882020342895604,0.3109601045250355
+Divergent,cri,Critique,Conscientiousness,38,-0.013143208613019822,0.9375759146199297
+Divergent,cri,Critique,Negative Emotionality,38,-0.12886584145116908,0.440665866167126
+Divergent,cri,Critique,Open-Mindedness,38,0.01676830033404056,0.9204073036363607
+Divergent,cer,Certainty,Extraversion,38,0.16076642771708685,0.3349373365797934
+Divergent,cer,Certainty,Agreeableness,38,-0.16070170879765577,0.3351345137176309
+Divergent,cer,Certainty,Conscientiousness,38,0.09564721562079971,0.5678469093998797
+Divergent,cer,Certainty,Negative Emotionality,38,-0.0575924394156766,0.7312604678859195
+Divergent,cer,Certainty,Open-Mindedness,38,-0.13392282533453725,0.42278520790095886
+Divergent,com,Commitment,Extraversion,38,-0.0012120841020479473,0.9942375800562803
+Divergent,com,Commitment,Agreeableness,38,0.0441512653236466,0.7923939603772494
+Divergent,com,Commitment,Conscientiousness,38,0.2035540628050045,0.22028992268087602
+Divergent,com,Commitment,Negative Emotionality,38,-0.21359954541906112,0.19786723706238313
+Divergent,com,Commitment,Open-Mindedness,38,-0.004136180749063338,0.9803377518428043
+Divergent,ref,Reframing,Extraversion,38,0.18511829922186837,0.2658474427523199
+Divergent,ref,Reframing,Agreeableness,38,-0.11165710424418435,0.5045168977600812
+Divergent,ref,Reframing,Conscientiousness,38,-0.16942589926363366,0.30920186429019414
+Divergent,ref,Reframing,Negative Emotionality,38,0.32128196087825717,0.049200535271094595
+Divergent,ref,Reframing,Open-Mindedness,38,0.2491769429638427,0.13139373654903133
+Divergent,prop,Propose-new-idea,Extraversion,38,0.180159773349854,0.279089446958728
+Divergent,prop,Propose-new-idea,Agreeableness,38,-0.4084826134351485,0.010893560187297755
+Divergent,prop,Propose-new-idea,Conscientiousness,38,-0.32858021532549553,0.043993382835737116
+Divergent,prop,Propose-new-idea,Negative Emotionality,38,0.41230449443751616,0.010103326952084412
+Divergent,prop,Propose-new-idea,Open-Mindedness,38,0.06461385062050296,0.6999379516920532
+Convergent,exp,Expansion,Extraversion,41,0.04504706495469943,0.7797355032692846
+Convergent,exp,Expansion,Agreeableness,41,0.1685255426364034,0.292214857724723
+Convergent,exp,Expansion,Conscientiousness,41,-0.08555414232672637,0.5948303869306277
+Convergent,exp,Expansion,Negative Emotionality,41,-0.0915732130062236,0.5690711108302096
+Convergent,exp,Expansion,Open-Mindedness,41,0.15617238326536576,0.3295274151400405
+Convergent,con,Contraction,Extraversion,41,0.18939048125896002,0.23563891145858143
+Convergent,con,Contraction,Agreeableness,41,-0.027657753963019244,0.863711133326147
+Convergent,con,Contraction,Conscientiousness,41,0.19535155291030742,0.22094786360014387
+Convergent,con,Contraction,Negative Emotionality,41,-0.0606969423384191,0.7061893366186768
+Convergent,con,Contraction,Open-Mindedness,41,0.2153674679138245,0.17627638560566933
+Convergent,cri,Critique,Extraversion,41,-0.08764020419202222,0.5858450200145272
+Convergent,cri,Critique,Agreeableness,41,0.06243004270752253,0.6981909613778442
+Convergent,cri,Critique,Conscientiousness,41,-0.2991759843581417,0.05740726885912365
+Convergent,cri,Critique,Negative Emotionality,41,0.2771827033454472,0.07934349469464684
+Convergent,cri,Critique,Open-Mindedness,41,-0.0921107370987228,0.5667958617961273
+Convergent,cer,Certainty,Extraversion,41,-0.0007011216335361778,0.9965287908487435
+Convergent,cer,Certainty,Agreeableness,41,-0.22766511300748954,0.1522687644472697
+Convergent,cer,Certainty,Conscientiousness,41,-0.08915549739386781,0.5793563591174029
+Convergent,cer,Certainty,Negative Emotionality,41,0.04627042271015716,0.773908111518489
+Convergent,cer,Certainty,Open-Mindedness,41,-0.18970741627248963,0.2348415092016094
+Convergent,com,Commitment,Extraversion,41,0.141889490586884,0.37619527525601804
+Convergent,com,Commitment,Agreeableness,41,-0.019387107279544034,0.904237394250416
+Convergent,com,Commitment,Conscientiousness,41,-0.031445978391137615,0.8452569233886621
+Convergent,com,Commitment,Negative Emotionality,41,-0.13186190806563802,0.4111824821155791
+Convergent,com,Commitment,Open-Mindedness,41,-0.019200797262654036,0.9051534744157597
+Convergent,ref,Reframing,Extraversion,41,0.014635914100067711,0.9276339008891478
+Convergent,ref,Reframing,Agreeableness,41,-0.30645858571242546,0.05132127411103833
+Convergent,ref,Reframing,Conscientiousness,41,-0.0612230361414048,0.7037580331679547
+Convergent,ref,Reframing,Negative Emotionality,41,0.047765854622842864,0.7668013370777629
+Convergent,ref,Reframing,Open-Mindedness,41,0.14024545466039928,0.38180706562635697
+Convergent,prop,Propose-new-idea,Extraversion,41,-0.3324192945003403,0.03371201482573586
+Convergent,prop,Propose-new-idea,Agreeableness,41,-0.21263565828160452,0.18195836815852856
+Convergent,prop,Propose-new-idea,Conscientiousness,41,-0.12754067213388778,0.4268133449063083
+Convergent,prop,Propose-new-idea,Negative Emotionality,41,-0.007301226397230124,0.9638638570073548
+Convergent,prop,Propose-new-idea,Open-Mindedness,41,-0.16059653010007865,0.31583763083956745
+Rational,exp,Expansion,Extraversion,9,0.297939785765562,0.43616642382435533
+Rational,exp,Expansion,Agreeableness,9,-0.1191759143062248,0.7600720072686069
+Rational,exp,Expansion,Conscientiousness,9,-0.22786635759382498,0.5554138874204526
+Rational,exp,Expansion,Negative Emotionality,9,0.6975036196572949,0.03672232474451499
+Rational,exp,Expansion,Open-Mindedness,9,0.4637286359365902,0.20863954586214475
+Rational,con,Contraction,Extraversion,9,-0.5107539184552492,0.1599898165315162
+Rational,con,Contraction,Agreeableness,9,0.017025130615174973,0.9653250652330922
+Rational,con,Contraction,Conscientiousness,9,-0.03375797890278888,0.9312940863813554
+Rational,con,Contraction,Negative Emotionality,9,-0.0840365806816018,0.8298064051563602
+Rational,con,Contraction,Open-Mindedness,9,-0.6612426845762489,0.052450699365964734
+Rational,cri,Critique,Extraversion,9,0.2468643939200371,0.5219368819347782
+Rational,cri,Critique,Agreeableness,9,0.11066334899863732,0.7768465178205831
+Rational,cri,Critique,Conscientiousness,9,0.22786635759382498,0.5554138874204526
+Rational,cri,Critique,Negative Emotionality,9,0.033614632272640714,0.9315852819957169
+Rational,cri,Critique,Open-Mindedness,9,-0.31773999128988584,0.4047196723629191
+Rational,cer,Certainty,Extraversion,9,0.10215078369104982,0.7937012098359385
+Rational,cer,Certainty,Agreeableness,9,-0.41711570007178683,0.2640184707660533
+Rational,cer,Certainty,Conscientiousness,9,0.00843949472569722,0.982808222956734
+Rational,cer,Certainty,Negative Emotionality,9,-0.22689876784032487,0.5571400528860272
+Rational,cer,Certainty,Open-Mindedness,9,-0.6268924152476126,0.07079004450395794
+Rational,com,Commitment,Extraversion,9,-0.07661308776828737,0.8446864940674862
+Rational,com,Commitment,Agreeableness,9,-0.331990046995912,0.3827542780440238
+Rational,com,Commitment,Conscientiousness,9,0.8523889672954192,0.0035109428988616396
+Rational,com,Commitment,Negative Emotionality,9,-0.18488047749952394,0.633928325636063
+Rational,com,Commitment,Open-Mindedness,9,-0.09446324065374985,0.8089863189011596
+Rational,ref,Reframing,Extraversion,9,0.595879571531124,0.09040000153751146
+Rational,ref,Reframing,Agreeableness,9,-0.5448041796855991,0.1293216315333349
+Rational,ref,Reframing,Conscientiousness,9,0.4472932204619527,0.2273599736038651
+Rational,ref,Reframing,Negative Emotionality,9,0.2016877936358443,0.6027992537712049
+Rational,ref,Reframing,Open-Mindedness,9,0.12022594265022707,0.7580087103376159
+Rational,prop,Propose-new-idea,Extraversion,9,-0.3745528735338494,0.3206358025368048
+Rational,prop,Propose-new-idea,Agreeableness,9,-0.11066334899863732,0.7768465178205831
+Rational,prop,Propose-new-idea,Conscientiousness,9,0.3966562521077694,0.2905277777922224
+Rational,prop,Propose-new-idea,Negative Emotionality,9,-0.2605134001129656,0.49839229689525494
+Rational,prop,Propose-new-idea,Open-Mindedness,9,-0.8072313292229533,0.008527817441164586
+BoundedRational,exp,Expansion,Extraversion,9,0.21374549001774043,0.5808005790308616
+BoundedRational,exp,Expansion,Agreeableness,9,0.40221101465003467,0.28319991287240104
+BoundedRational,exp,Expansion,Conscientiousness,9,0.3697609549990479,0.32736054279590704
+BoundedRational,exp,Expansion,Negative Emotionality,9,-0.581387732848254,0.10059300241088126
+BoundedRational,exp,Expansion,Open-Mindedness,9,0.09323373174786144,0.8114362655208599
+BoundedRational,con,Contraction,Extraversion,9,0.017099639201419235,0.9651733880365996
+BoundedRational,con,Contraction,Agreeableness,9,-0.04371858854891681,0.911078956620555
+BoundedRational,con,Contraction,Conscientiousness,9,0.1596695032950434,0.6815555031835357
+BoundedRational,con,Contraction,Negative Emotionality,9,-0.25649458802128855,0.5052793765760157
+BoundedRational,con,Contraction,Open-Mindedness,9,0.18646746349572288,0.6309668238972302
+BoundedRational,cri,Critique,Extraversion,9,-0.04274909800354809,0.9130447699490899
+BoundedRational,cri,Critique,Agreeableness,9,-0.2273366604543674,0.5563586110587225
+BoundedRational,cri,Critique,Conscientiousness,9,-0.5714487486348921,0.10797035347412813
+BoundedRational,cri,Critique,Negative Emotionality,9,0.5300888152439963,0.14210696638917666
+BoundedRational,cri,Critique,Open-Mindedness,9,0.13561270072416207,0.72793110279068
+BoundedRational,cer,Certainty,Extraversion,9,-0.5386386348447059,0.13459200563808751
+BoundedRational,cer,Certainty,Agreeableness,9,-0.06994974167826688,0.8580793193540677
+BoundedRational,cer,Certainty,Conscientiousness,9,-0.3865682711353683,0.3040820479752825
+BoundedRational,cer,Certainty,Negative Emotionality,9,0.008549819600709618,0.9825835115101051
+BoundedRational,cer,Certainty,Open-Mindedness,9,-0.21189484488150326,0.5841581785627923
+BoundedRational,com,Commitment,Extraversion,9,-0.8207826816681232,0.006701432037111244
+BoundedRational,com,Commitment,Agreeableness,9,0.06994974167826688,0.8580793193540677
+BoundedRational,com,Commitment,Conscientiousness,9,-0.15126584522688322,0.6976592749577054
+BoundedRational,com,Commitment,Negative Emotionality,9,0.5557382740461252,0.12028069292403927
+BoundedRational,com,Commitment,Open-Mindedness,9,-0.8814825547070536,0.0016774219366218165
+BoundedRational,ref,Reframing,Extraversion,9,0.42749098003548086,0.2510837812946143
+BoundedRational,ref,Reframing,Agreeableness,9,0.7781908761707192,0.013517635537999402
+BoundedRational,ref,Reframing,Conscientiousness,9,0.30253169045376643,0.4287796272981065
+BoundedRational,ref,Reframing,Negative Emotionality,9,-0.7010852072581886,0.03536045602650368
+BoundedRational,ref,Reframing,Open-Mindedness,9,-0.01695158759052026,0.9654747777786836
+BoundedRational,prop,Propose-new-idea,Extraversion,9,0.017099639201419235,0.9651733880365996
+BoundedRational,prop,Propose-new-idea,Agreeableness,9,0.01748743541956672,0.9643839666256007
+BoundedRational,prop,Propose-new-idea,Conscientiousness,9,-0.4033755872716886,0.28167588643557034
+BoundedRational,prop,Propose-new-idea,Negative Emotionality,9,-0.3077935056255462,0.42038438378969906
+BoundedRational,prop,Propose-new-idea,Open-Mindedness,9,0.4831202463298274,0.18769313836245227

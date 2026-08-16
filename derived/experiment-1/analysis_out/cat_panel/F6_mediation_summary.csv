@@ -1,0 +1,2 @@
+panel_dim,outcome,n,rho,p,ci_lo,ci_hi,boot_resamples
+user_ideational_fluency,orig_all,16,-0.6176470588235293,0.010787984601948844,-0.8684701903991767,-0.1004273866038752,5000

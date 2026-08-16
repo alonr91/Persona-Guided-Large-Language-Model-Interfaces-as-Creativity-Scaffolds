@@ -1,0 +1,11 @@
+trait,diff,n,rho,p
+Extraversion,Persona-GPT Creativity diff,97,-0.08018278277445491,0.43496158167433385
+Extraversion,Persona-GPT Ownership diff,97,0.0857038789447544,0.4038978382779883
+Agreeableness,Persona-GPT Creativity diff,97,-0.05618830690040406,0.5846200137805115
+Agreeableness,Persona-GPT Ownership diff,97,-0.011112526934957534,0.9139717342556742
+Conscientiousness,Persona-GPT Creativity diff,97,0.022508969480637343,0.8267735406386321
+Conscientiousness,Persona-GPT Ownership diff,97,-0.05690229118827151,0.5798483077668737
+Negative Emotionality,Persona-GPT Creativity diff,97,0.07207784641979502,0.4829317231070475
+Negative Emotionality,Persona-GPT Ownership diff,97,-0.024824086435016875,0.8092787371996818
+Open-Mindedness,Persona-GPT Creativity diff,97,0.01666801049263131,0.8712712200289966
+Open-Mindedness,Persona-GPT Ownership diff,97,0.009931138398473975,0.9230879285911219

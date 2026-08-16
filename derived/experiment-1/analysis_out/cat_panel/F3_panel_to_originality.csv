@@ -1,0 +1,33 @@
+panel_dim,label,outcome,n,rho,p
+user_ideational_fluency,Ideational fluency,n_ideas,36,0.5239925704637958,0.001037965255981121
+user_ideational_fluency,Ideational fluency,orig_same,36,-0.29858163939941407,0.07691660840179466
+user_ideational_fluency,Ideational fluency,orig_all,36,-0.5494211843399762,0.0005194187594111104
+user_ideational_fluency,Ideational fluency,orig_cross,36,-0.38469595571849413,0.02052167113164229
+user_cognitive_flexibility,Cognitive flexibility,n_ideas,36,0.39574827310839433,0.016887546513534798
+user_cognitive_flexibility,Cognitive flexibility,orig_same,36,-0.21602835991499753,0.20571676846864145
+user_cognitive_flexibility,Cognitive flexibility,orig_all,36,-0.572644536686619,0.00026254907390488476
+user_cognitive_flexibility,Cognitive flexibility,orig_cross,36,-0.45928224649230026,0.0048358921174726285
+user_problem_frame_development,Problem-frame development,n_ideas,36,0.15477376547932217,0.3674196659798504
+user_problem_frame_development,Problem-frame development,orig_same,36,0.046042483662887955,0.789741172479189
+user_problem_frame_development,Problem-frame development,orig_all,36,-0.2903918899188905,0.08577755947792272
+user_problem_frame_development,Problem-frame development,orig_cross,36,-0.1866582047370934,0.2756958164874134
+user_reflective_engagement,Reflective engagement,n_ideas,36,0.1981011933091826,0.2467898866177994
+user_reflective_engagement,Reflective engagement,orig_same,36,-0.10155653418546506,0.5556186831247266
+user_reflective_engagement,Reflective engagement,orig_all,36,-0.2634770287413724,0.12050682549505005
+user_reflective_engagement,Reflective engagement,orig_cross,36,-0.15222485750217224,0.37545778099225674
+user_constraint_integration,Constraint integration,n_ideas,35,0.13390310871881242,0.4431559347590051
+user_constraint_integration,Constraint integration,orig_same,35,0.07524411284666432,0.6674914156589272
+user_constraint_integration,Constraint integration,orig_all,35,-0.19765617703004362,0.2550558813435751
+user_constraint_integration,Constraint integration,orig_cross,35,-0.04134793925689855,0.8135610426894286
+user_epistemic_stance_regulation,Epistemic stance regulation,n_ideas,35,0.21529364625267677,0.21421260436740916
+user_epistemic_stance_regulation,Epistemic stance regulation,orig_same,35,-0.13009961099708073,0.4563312031326324
+user_epistemic_stance_regulation,Epistemic stance regulation,orig_all,35,-0.3219437941322355,0.05929016982415216
+user_epistemic_stance_regulation,Epistemic stance regulation,orig_cross,35,-0.13335319847013855,0.4450478903795388
+user_authorship_direction_setting,Authorship & direction-setting,n_ideas,35,-0.008139524630839518,0.9629866985530775
+user_authorship_direction_setting,Authorship & direction-setting,orig_same,35,0.1426319273982933,0.4137181958204585
+user_authorship_direction_setting,Authorship & direction-setting,orig_all,35,-0.14206253846656358,0.415604082497619
+user_authorship_direction_setting,Authorship & direction-setting,orig_cross,35,0.03858150407514183,0.8258372358929893
+user_implementation_relevant_progress,Implementation-relevant progress,n_ideas,35,0.3479398050366436,0.04054279937274038
+user_implementation_relevant_progress,Implementation-relevant progress,orig_same,35,-0.13032841512748103,0.4555327411754633
+user_implementation_relevant_progress,Implementation-relevant progress,orig_all,35,-0.30405282192995303,0.07576835849580904
+user_implementation_relevant_progress,Implementation-relevant progress,orig_cross,35,-0.13996816690698244,0.4225824191016076

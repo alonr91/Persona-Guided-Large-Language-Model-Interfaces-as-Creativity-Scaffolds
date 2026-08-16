@@ -1,0 +1,49 @@
+dimension,label,judge_pair,n,mean_abs_diff,spearman_rho,spearman_p
+user_ideational_fluency,Ideational fluency,Dr_C-Dr_I,41,0.32926829268292684,0.9537033337833953,5.930973443375394e-22
+user_ideational_fluency,Ideational fluency,Dr_C-Dr_D,40,0.225,0.9656018485253156,7.837756761799366e-24
+user_ideational_fluency,Ideational fluency,Dr_C-Dr_L,39,0.41025641025641024,0.9470076122751496,7.736247639179868e-20
+user_ideational_fluency,Ideational fluency,Dr_I-Dr_D,40,0.2125,0.9668293472761912,3.9717337413057885e-24
+user_ideational_fluency,Ideational fluency,Dr_I-Dr_L,39,0.48717948717948717,0.9355999832513338,2.5865565858353652e-18
+user_ideational_fluency,Ideational fluency,Dr_D-Dr_L,38,0.4868421052631579,0.9473938936775952,2.1466766656361507e-19
+user_cognitive_flexibility,Cognitive flexibility,Dr_C-Dr_I,40,0.2875,0.9253172491290672,1.3734873810855452e-17
+user_cognitive_flexibility,Cognitive flexibility,Dr_C-Dr_D,40,0.4,0.8713160892846821,2.614512132260261e-13
+user_cognitive_flexibility,Cognitive flexibility,Dr_C-Dr_L,39,0.21794871794871795,0.9450129253992986,1.5067138052602012e-19
+user_cognitive_flexibility,Cognitive flexibility,Dr_I-Dr_D,41,0.2804878048780488,0.9520544121929296,1.1562881725373839e-21
+user_cognitive_flexibility,Cognitive flexibility,Dr_I-Dr_L,39,0.24358974358974358,0.9280507764227545,1.8846540733558195e-17
+user_cognitive_flexibility,Cognitive flexibility,Dr_D-Dr_L,39,0.34615384615384615,0.8961533524880309,1.2698476616464307e-14
+user_problem_frame_development,Problem-frame development,Dr_C-Dr_I,40,0.225,0.9262506531080921,1.0905130834991617e-17
+user_problem_frame_development,Problem-frame development,Dr_C-Dr_D,39,0.19230769230769232,0.9477062685985493,6.088065553398356e-20
+user_problem_frame_development,Problem-frame development,Dr_C-Dr_L,40,0.2,0.916376092699008,1.0876302459072469e-16
+user_problem_frame_development,Problem-frame development,Dr_I-Dr_D,40,0.25,0.9176356804722209,8.243388122534781e-17
+user_problem_frame_development,Problem-frame development,Dr_I-Dr_L,40,0.225,0.930513689827554,3.65318963681347e-18
+user_problem_frame_development,Problem-frame development,Dr_D-Dr_L,39,0.24358974358974358,0.901544192089415,4.963882063498495e-15
+user_reflective_engagement,Reflective engagement,Dr_C-Dr_I,40,0.225,0.8931098203189772,9.369811955031219e-15
+user_reflective_engagement,Reflective engagement,Dr_C-Dr_D,39,0.3076923076923077,0.8980894767709949,9.117236210782738e-15
+user_reflective_engagement,Reflective engagement,Dr_C-Dr_L,40,0.2,0.8925332260581557,1.032457869397819e-14
+user_reflective_engagement,Reflective engagement,Dr_I-Dr_D,40,0.275,0.908272526640751,5.86619341947928e-16
+user_reflective_engagement,Reflective engagement,Dr_I-Dr_L,40,0.2,0.908664351303344,5.426891122569678e-16
+user_reflective_engagement,Reflective engagement,Dr_D-Dr_L,39,0.3974358974358974,0.8915455257685821,2.72345418464336e-14
+user_constraint_integration,Constraint integration,Dr_C-Dr_I,40,0.3875,0.9597141684579878,1.4985792920650382e-22
+user_constraint_integration,Constraint integration,Dr_C-Dr_D,40,0.3375,0.9523559920006132,3.404582742037555e-21
+user_constraint_integration,Constraint integration,Dr_C-Dr_L,40,0.5625,0.9409112664082199,1.8405334558083951e-19
+user_constraint_integration,Constraint integration,Dr_I-Dr_D,40,0.25,0.9502246475572157,7.675131939932331e-21
+user_constraint_integration,Constraint integration,Dr_I-Dr_L,40,0.275,0.9612986906403073,7.088658278440861e-23
+user_constraint_integration,Constraint integration,Dr_D-Dr_L,40,0.325,0.9498996761710029,8.660615720366733e-21
+user_epistemic_stance_regulation,Epistemic stance regulation,Dr_C-Dr_I,40,0.3125,0.8889810195433174,1.8549546276885767e-14
+user_epistemic_stance_regulation,Epistemic stance regulation,Dr_C-Dr_D,40,0.325,0.8635964054770539,7.372715189103001e-13
+user_epistemic_stance_regulation,Epistemic stance regulation,Dr_C-Dr_L,40,0.225,0.932111082830764,2.381701906221313e-18
+user_epistemic_stance_regulation,Epistemic stance regulation,Dr_I-Dr_D,40,0.2375,0.85291335040064,2.8018447065568434e-12
+user_epistemic_stance_regulation,Epistemic stance regulation,Dr_I-Dr_L,40,0.4375,0.8362611667253834,1.8447229952846448e-11
+user_epistemic_stance_regulation,Epistemic stance regulation,Dr_D-Dr_L,40,0.425,0.8380015881307378,1.5301327226784197e-11
+user_authorship_direction_setting,Authorship & direction-setting,Dr_C-Dr_I,39,0.48717948717948717,0.9364789583286337,2.0210195130948306e-18
+user_authorship_direction_setting,Authorship & direction-setting,Dr_C-Dr_D,39,0.3974358974358974,0.9331601922485502,5.0398459446462e-18
+user_authorship_direction_setting,Authorship & direction-setting,Dr_C-Dr_L,39,0.28205128205128205,0.8906521393307679,3.1451743310196563e-14
+user_authorship_direction_setting,Authorship & direction-setting,Dr_I-Dr_D,40,0.2625,0.947320721256986,2.1975072207897476e-20
+user_authorship_direction_setting,Authorship & direction-setting,Dr_I-Dr_L,40,0.6,0.8163099751400653,1.3623464013147854e-10
+user_authorship_direction_setting,Authorship & direction-setting,Dr_D-Dr_L,40,0.5875,0.8474804267757734,5.310062732017396e-12
+user_implementation_relevant_progress,Implementation-relevant progress,Dr_C-Dr_I,40,0.2125,0.944500890820005,5.77396072571907e-20
+user_implementation_relevant_progress,Implementation-relevant progress,Dr_C-Dr_D,40,0.2125,0.9431697650582668,8.953176394375921e-20
+user_implementation_relevant_progress,Implementation-relevant progress,Dr_C-Dr_L,40,0.225,0.931370241639633,2.9080829109256867e-18
+user_implementation_relevant_progress,Implementation-relevant progress,Dr_I-Dr_D,40,0.325,0.9065732722914058,8.189037275777515e-16
+user_implementation_relevant_progress,Implementation-relevant progress,Dr_I-Dr_L,40,0.2625,0.8781016142709271,9.933477903831362e-14
+user_implementation_relevant_progress,Implementation-relevant progress,Dr_D-Dr_L,40,0.2625,0.9364770640902716,7.000018871763066e-19

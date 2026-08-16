@@ -1,0 +1,33 @@
+family,dimension,label,n,dz,t,p,mean_diff
+Divergent,user_ideational_fluency,Ideational fluency,5,0.7637067611987916,1.7077002329166968,0.16287887661314115,1.3416666666666666
+Divergent,user_cognitive_flexibility,Cognitive flexibility,5,0.8501456460131849,1.9009834552609544,0.13009120153248968,1.2416666666666667
+Divergent,user_problem_frame_development,Problem-frame development,5,0.16836405997989412,0.37647348308289513,0.7256833054393527,0.375
+Divergent,user_reflective_engagement,Reflective engagement,5,0.7666518779999278,1.714285714285714,0.16162758360672283,0.6
+Divergent,user_constraint_integration,Constraint integration,5,0.1801577070206772,0.40284487956872533,0.7076642065367961,0.45
+Divergent,user_epistemic_stance_regulation,Epistemic stance regulation,5,0.4632410546120795,1.035838488081302,0.3587889515811191,0.625
+Divergent,user_authorship_direction_setting,Authorship & direction-setting,5,-0.49656353316142077,-1.110349815296408,0.32909638358778237,-0.75
+Divergent,user_implementation_relevant_progress,Implementation-relevant progress,5,1.0084152956251229,2.254885150568321,0.08717240306067187,0.95
+Convergent,user_ideational_fluency,Ideational fluency,5,-0.3057765662000078,-0.6837371879496821,0.5316947040585199,-0.325
+Convergent,user_cognitive_flexibility,Cognitive flexibility,5,-0.2734343708098653,-0.6114178405157431,0.5739646943252181,-0.25
+Convergent,user_problem_frame_development,Problem-frame development,5,0.09873951698254954,0.22078827203847567,0.836069252059989,0.15
+Convergent,user_reflective_engagement,Reflective engagement,5,0.35082320772281167,0.784464540552736,0.4766206672728411,0.15
+Convergent,user_constraint_integration,Constraint integration,5,0.28248982061857947,0.6316664418548654,0.5619045202466225,0.5
+Convergent,user_epistemic_stance_regulation,Epistemic stance regulation,5,-0.4702268003442553,-1.0514590904119765,0.3523726201907353,-0.6
+Convergent,user_authorship_direction_setting,Authorship & direction-setting,5,-0.5634871011556741,-1.2599954626283874,0.27617075727364665,-1.425
+Convergent,user_implementation_relevant_progress,Implementation-relevant progress,5,0.6812490503307468,1.5233191861467255,0.2023486305253404,0.9
+Rational,user_ideational_fluency,Ideational fluency,5,0.1747408113322076,0.39073233258228174,0.7159127844618656,0.25
+Rational,user_cognitive_flexibility,Cognitive flexibility,5,-0.028513297425610054,-0.06375767130633384,0.952222199842915,-0.025
+Rational,user_problem_frame_development,Problem-frame development,5,-0.09407208683835973,-0.21035158095583562,0.8436739315188334,-0.125
+Rational,user_reflective_engagement,Reflective engagement,5,0.6896342669911893,1.5420691006055387,0.19791836964971055,0.5166666666666666
+Rational,user_constraint_integration,Constraint integration,5,-0.038957240503166186,-0.0871110379808877,0.9347698017493673,-0.1
+Rational,user_epistemic_stance_regulation,Epistemic stance regulation,5,0.537665384086299,1.2022563479654984,0.2955678200209292,0.6
+Rational,user_authorship_direction_setting,Authorship & direction-setting,5,-1.8412981046907555,-4.117267728930054,0.014645031228070614,-0.7583333333333334
+Rational,user_implementation_relevant_progress,Implementation-relevant progress,5,0.25099986447496186,0.5612527593092492,0.6045785166627656,0.325
+BoundedRational,user_ideational_fluency,Ideational fluency,5,0.5622535302317492,1.2572371141874243,0.277069167347592,0.875
+BoundedRational,user_cognitive_flexibility,Cognitive flexibility,5,0.4004947435409863,0.8955334711889903,0.4211225413195609,0.675
+BoundedRational,user_problem_frame_development,Problem-frame development,5,-0.3031173969237765,-0.6777911046843499,0.5350852358638477,-0.575
+BoundedRational,user_reflective_engagement,Reflective engagement,5,-0.49778699614084015,-1.113085561686344,0.3280497240408168,-0.8
+BoundedRational,user_constraint_integration,Constraint integration,5,-0.1944384248294946,-0.4347775353567329,0.6861520113084989,-0.225
+BoundedRational,user_epistemic_stance_regulation,Epistemic stance regulation,5,-0.5934424260562082,-1.326977605394074,0.2551961470235906,-0.9
+BoundedRational,user_authorship_direction_setting,Authorship & direction-setting,5,-0.4200077779938339,-0.9391659426728527,0.40081898642348174,-0.675
+BoundedRational,user_implementation_relevant_progress,Implementation-relevant progress,5,-0.33212248269493955,-0.7426484481618822,0.49893952042562917,-0.425

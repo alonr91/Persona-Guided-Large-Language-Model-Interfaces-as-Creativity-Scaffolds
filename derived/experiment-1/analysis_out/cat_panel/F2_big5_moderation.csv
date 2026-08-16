@@ -1,0 +1,161 @@
+family,dimension,label,trait,n,rho,p
+Divergent,user_ideational_fluency,Ideational fluency,Extraversion,5,-0.05129891760425771,0.934712848108234
+Divergent,user_ideational_fluency,Ideational fluency,Agreeableness,5,0.11180339887498948,0.8579446176050993
+Divergent,user_ideational_fluency,Ideational fluency,Conscientiousness,5,0.35909242322980395,0.5528147466433508
+Divergent,user_ideational_fluency,Ideational fluency,Negative Emotionality,5,-0.39999999999999997,0.5046315754686912
+Divergent,user_ideational_fluency,Ideational fluency,Open-Mindedness,5,0.35909242322980395,0.5528147466433508
+Divergent,user_cognitive_flexibility,Cognitive flexibility,Extraversion,5,0.35909242322980395,0.5528147466433508
+Divergent,user_cognitive_flexibility,Cognitive flexibility,Agreeableness,5,-0.4472135954999579,0.4501848557521007
+Divergent,user_cognitive_flexibility,Cognitive flexibility,Conscientiousness,5,-0.05129891760425771,0.934712848108234
+Divergent,user_cognitive_flexibility,Cognitive flexibility,Negative Emotionality,5,-0.09999999999999999,0.8728885715695384
+Divergent,user_cognitive_flexibility,Cognitive flexibility,Open-Mindedness,5,0.6668859288553503,0.21889398131323148
+Divergent,user_problem_frame_development,Problem-frame development,Extraversion,5,0.35909242322980395,0.5528147466433508
+Divergent,user_problem_frame_development,Problem-frame development,Agreeableness,5,-0.4472135954999579,0.4501848557521007
+Divergent,user_problem_frame_development,Problem-frame development,Conscientiousness,5,-0.05129891760425771,0.934712848108234
+Divergent,user_problem_frame_development,Problem-frame development,Negative Emotionality,5,-0.09999999999999999,0.8728885715695384
+Divergent,user_problem_frame_development,Problem-frame development,Open-Mindedness,5,0.6668859288553503,0.21889398131323148
+Divergent,user_reflective_engagement,Reflective engagement,Extraversion,5,-0.5263157894736843,0.36224548118984495
+Divergent,user_reflective_engagement,Reflective engagement,Agreeableness,5,-0.22941573387056177,0.7104817254267775
+Divergent,user_reflective_engagement,Reflective engagement,Conscientiousness,5,0.2894736842105264,0.6366447547494906
+Divergent,user_reflective_engagement,Reflective engagement,Negative Emotionality,5,-0.35909242322980395,0.5528147466433508
+Divergent,user_reflective_engagement,Reflective engagement,Open-Mindedness,5,-0.26315789473684215,0.6688454650582101
+Divergent,user_constraint_integration,Constraint integration,Extraversion,5,-0.20519567041703085,0.7405819415910722
+Divergent,user_constraint_integration,Constraint integration,Agreeableness,5,0.3354101966249684,0.5810906728217107
+Divergent,user_constraint_integration,Constraint integration,Conscientiousness,5,0.35909242322980395,0.5528147466433508
+Divergent,user_constraint_integration,Constraint integration,Negative Emotionality,5,-0.3,0.623837664781073
+Divergent,user_constraint_integration,Constraint integration,Open-Mindedness,5,0.20519567041703085,0.7405819415910722
+Divergent,user_epistemic_stance_regulation,Epistemic stance regulation,Extraversion,5,-0.8207826816681234,0.08858700531354378
+Divergent,user_epistemic_stance_regulation,Epistemic stance regulation,Agreeableness,5,0.22360679774997896,0.7176856442107858
+Divergent,user_epistemic_stance_regulation,Epistemic stance regulation,Conscientiousness,5,0.6668859288553503,0.21889398131323148
+Divergent,user_epistemic_stance_regulation,Epistemic stance regulation,Negative Emotionality,5,-0.7,0.1881204043741873
+Divergent,user_epistemic_stance_regulation,Epistemic stance regulation,Open-Mindedness,5,-0.7181848464596079,0.17179530490798894
+Divergent,user_authorship_direction_setting,Authorship & direction-setting,Extraversion,5,-0.20519567041703085,0.7405819415910722
+Divergent,user_authorship_direction_setting,Authorship & direction-setting,Agreeableness,5,-0.3354101966249684,0.5810906728217107
+Divergent,user_authorship_direction_setting,Authorship & direction-setting,Conscientiousness,5,0.05129891760425771,0.934712848108234
+Divergent,user_authorship_direction_setting,Authorship & direction-setting,Negative Emotionality,5,-0.09999999999999999,0.8728885715695384
+Divergent,user_authorship_direction_setting,Authorship & direction-setting,Open-Mindedness,5,0.20519567041703085,0.7405819415910722
+Divergent,user_implementation_relevant_progress,Implementation-relevant progress,Extraversion,5,-0.7631578947368421,0.13333911953180624
+Divergent,user_implementation_relevant_progress,Implementation-relevant progress,Agreeableness,5,0.9176629354822471,0.028008456010146142
+Divergent,user_implementation_relevant_progress,Implementation-relevant progress,Conscientiousness,5,0.9210526315789475,0.0263105196855779
+Divergent,user_implementation_relevant_progress,Implementation-relevant progress,Negative Emotionality,5,-0.8207826816681233,0.08858700531354384
+Divergent,user_implementation_relevant_progress,Implementation-relevant progress,Open-Mindedness,5,-0.605263157894737,0.27940925808015626
+Convergent,user_ideational_fluency,Ideational fluency,Extraversion,5,-0.09999999999999999,0.8728885715695384
+Convergent,user_ideational_fluency,Ideational fluency,Agreeableness,5,0.6708203932499368,0.21516994256955022
+Convergent,user_ideational_fluency,Ideational fluency,Conscientiousness,5,0.8207826816681234,0.08858700531354378
+Convergent,user_ideational_fluency,Ideational fluency,Negative Emotionality,5,-0.09999999999999999,0.8728885715695384
+Convergent,user_ideational_fluency,Ideational fluency,Open-Mindedness,5,-0.09999999999999999,0.8728885715695384
+Convergent,user_cognitive_flexibility,Cognitive flexibility,Extraversion,5,-0.15389675281277312,0.8048288166080632
+Convergent,user_cognitive_flexibility,Cognitive flexibility,Agreeableness,5,0.6882472016116853,0.19889218813730516
+Convergent,user_cognitive_flexibility,Cognitive flexibility,Conscientiousness,5,0.7631578947368421,0.13333911953180624
+Convergent,user_cognitive_flexibility,Cognitive flexibility,Negative Emotionality,5,-0.15389675281277312,0.8048288166080632
+Convergent,user_cognitive_flexibility,Cognitive flexibility,Open-Mindedness,5,-0.15389675281277312,0.8048288166080632
+Convergent,user_problem_frame_development,Problem-frame development,Extraversion,5,-0.19999999999999998,0.7470600781046621
+Convergent,user_problem_frame_development,Problem-frame development,Agreeableness,5,0.6708203932499368,0.21516994256955022
+Convergent,user_problem_frame_development,Problem-frame development,Conscientiousness,5,0.6668859288553503,0.21889398131323148
+Convergent,user_problem_frame_development,Problem-frame development,Negative Emotionality,5,-0.19999999999999998,0.7470600781046621
+Convergent,user_problem_frame_development,Problem-frame development,Open-Mindedness,5,-0.19999999999999998,0.7470600781046621
+Convergent,user_reflective_engagement,Reflective engagement,Extraversion,5,-0.6,0.28475697986529386
+Convergent,user_reflective_engagement,Reflective engagement,Agreeableness,5,0.22360679774997896,0.7176856442107858
+Convergent,user_reflective_engagement,Reflective engagement,Conscientiousness,5,0.35909242322980395,0.5528147466433508
+Convergent,user_reflective_engagement,Reflective engagement,Negative Emotionality,5,0.6,0.28475697986529386
+Convergent,user_reflective_engagement,Reflective engagement,Open-Mindedness,5,-0.6,0.28475697986529386
+Convergent,user_constraint_integration,Constraint integration,Extraversion,5,-0.8999999999999998,0.03738607346849875
+Convergent,user_constraint_integration,Constraint integration,Agreeableness,5,0.22360679774997896,0.7176856442107858
+Convergent,user_constraint_integration,Constraint integration,Conscientiousness,5,-0.30779350562554625,0.614384002810333
+Convergent,user_constraint_integration,Constraint integration,Negative Emotionality,5,0.8999999999999998,0.03738607346849875
+Convergent,user_constraint_integration,Constraint integration,Open-Mindedness,5,-0.8999999999999998,0.03738607346849875
+Convergent,user_epistemic_stance_regulation,Epistemic stance regulation,Extraversion,5,-0.3,0.623837664781073
+Convergent,user_epistemic_stance_regulation,Epistemic stance regulation,Agreeableness,5,0.4472135954999579,0.4501848557521007
+Convergent,user_epistemic_stance_regulation,Epistemic stance regulation,Conscientiousness,5,0.6668859288553503,0.21889398131323148
+Convergent,user_epistemic_stance_regulation,Epistemic stance regulation,Negative Emotionality,5,0.3,0.623837664781073
+Convergent,user_epistemic_stance_regulation,Epistemic stance regulation,Open-Mindedness,5,-0.3,0.623837664781073
+Convergent,user_authorship_direction_setting,Authorship & direction-setting,Extraversion,5,-0.3,0.623837664781073
+Convergent,user_authorship_direction_setting,Authorship & direction-setting,Agreeableness,5,0.4472135954999579,0.4501848557521007
+Convergent,user_authorship_direction_setting,Authorship & direction-setting,Conscientiousness,5,0.6668859288553503,0.21889398131323148
+Convergent,user_authorship_direction_setting,Authorship & direction-setting,Negative Emotionality,5,0.3,0.623837664781073
+Convergent,user_authorship_direction_setting,Authorship & direction-setting,Open-Mindedness,5,-0.3,0.623837664781073
+Convergent,user_implementation_relevant_progress,Implementation-relevant progress,Extraversion,5,-0.39999999999999997,0.5046315754686912
+Convergent,user_implementation_relevant_progress,Implementation-relevant progress,Agreeableness,5,0.4472135954999579,0.4501848557521007
+Convergent,user_implementation_relevant_progress,Implementation-relevant progress,Conscientiousness,5,0.4103913408340617,0.49253578170279744
+Convergent,user_implementation_relevant_progress,Implementation-relevant progress,Negative Emotionality,5,0.49999999999999994,0.3910022189557703
+Convergent,user_implementation_relevant_progress,Implementation-relevant progress,Open-Mindedness,5,-0.39999999999999997,0.5046315754686912
+Rational,user_ideational_fluency,Ideational fluency,Extraversion,5,0.6708203932499368,0.21516994256955022
+Rational,user_ideational_fluency,Ideational fluency,Agreeableness,5,-0.9746794344808963,0.004818230468198565
+Rational,user_ideational_fluency,Ideational fluency,Conscientiousness,5,0.9746794344808963,0.004818230468198565
+Rational,user_ideational_fluency,Ideational fluency,Negative Emotionality,5,0.4103913408340617,0.49253578170279744
+Rational,user_ideational_fluency,Ideational fluency,Open-Mindedness,5,-0.6324555320336759,0.25221549635550466
+Rational,user_cognitive_flexibility,Cognitive flexibility,Extraversion,5,0.22360679774997896,0.7176856442107858
+Rational,user_cognitive_flexibility,Cognitive flexibility,Agreeableness,5,-0.6668859288553503,0.21889398131323148
+Rational,user_cognitive_flexibility,Cognitive flexibility,Conscientiousness,5,0.46169025843831935,0.43376615616902764
+Rational,user_cognitive_flexibility,Cognitive flexibility,Negative Emotionality,5,0.4103913408340617,0.49253578170279744
+Rational,user_cognitive_flexibility,Cognitive flexibility,Open-Mindedness,5,0.0,1.0
+Rational,user_problem_frame_development,Problem-frame development,Extraversion,5,0.5735393346764044,0.3120363567395925
+Rational,user_problem_frame_development,Problem-frame development,Agreeableness,5,-0.7894736842105264,0.11222247808652752
+Rational,user_problem_frame_development,Problem-frame development,Conscientiousness,5,0.5000000000000001,0.3910022189557704
+Rational,user_problem_frame_development,Problem-frame development,Negative Emotionality,5,0.0,1.0
+Rational,user_problem_frame_development,Problem-frame development,Open-Mindedness,5,-0.08111071056538127,0.896839986156289
+Rational,user_reflective_engagement,Reflective engagement,Extraversion,5,0.6708203932499368,0.21516994256955022
+Rational,user_reflective_engagement,Reflective engagement,Agreeableness,5,-0.46169025843831935,0.43376615616902764
+Rational,user_reflective_engagement,Reflective engagement,Conscientiousness,5,0.10259783520851543,0.8695979205185651
+Rational,user_reflective_engagement,Reflective engagement,Negative Emotionality,5,-0.5642880936468347,0.3217233358243003
+Rational,user_reflective_engagement,Reflective engagement,Open-Mindedness,5,0.0,1.0
+Rational,user_constraint_integration,Constraint integration,Extraversion,5,0.22360679774997896,0.7176856442107858
+Rational,user_constraint_integration,Constraint integration,Agreeableness,5,-0.4103913408340617,0.49253578170279744
+Rational,user_constraint_integration,Constraint integration,Conscientiousness,5,0.10259783520851543,0.8695979205185651
+Rational,user_constraint_integration,Constraint integration,Negative Emotionality,5,-0.35909242322980395,0.5528147466433508
+Rational,user_constraint_integration,Constraint integration,Open-Mindedness,5,0.47434164902525683,0.41953112817892135
+Rational,user_epistemic_stance_regulation,Epistemic stance regulation,Extraversion,5,0.34412360080584264,0.5706564647860578
+Rational,user_epistemic_stance_regulation,Epistemic stance regulation,Agreeableness,5,-0.5000000000000001,0.3910022189557704
+Rational,user_epistemic_stance_regulation,Epistemic stance regulation,Conscientiousness,5,0.23684210526315794,0.701286739078067
+Rational,user_epistemic_stance_regulation,Epistemic stance regulation,Negative Emotionality,5,-0.36842105263157904,0.5417509057946895
+Rational,user_epistemic_stance_regulation,Epistemic stance regulation,Open-Mindedness,5,0.3244428422615251,0.5942727634181963
+Rational,user_authorship_direction_setting,Authorship & direction-setting,Extraversion,5,0.0,1.0
+Rational,user_authorship_direction_setting,Authorship & direction-setting,Agreeableness,5,-0.26315789473684215,0.6688454650582101
+Rational,user_authorship_direction_setting,Authorship & direction-setting,Conscientiousness,5,-0.026315789473684213,0.9664975638949244
+Rational,user_authorship_direction_setting,Authorship & direction-setting,Negative Emotionality,5,-0.2894736842105264,0.6366447547494906
+Rational,user_authorship_direction_setting,Authorship & direction-setting,Open-Mindedness,5,0.6488856845230502,0.23615367738664078
+Rational,user_implementation_relevant_progress,Implementation-relevant progress,Extraversion,5,0.4472135954999579,0.4501848557521007
+Rational,user_implementation_relevant_progress,Implementation-relevant progress,Agreeableness,5,-0.8207826816681234,0.08858700531354378
+Rational,user_implementation_relevant_progress,Implementation-relevant progress,Conscientiousness,5,0.6668859288553503,0.21889398131323148
+Rational,user_implementation_relevant_progress,Implementation-relevant progress,Negative Emotionality,5,0.05129891760425771,0.934712848108234
+Rational,user_implementation_relevant_progress,Implementation-relevant progress,Open-Mindedness,5,0.0,1.0
+BoundedRational,user_ideational_fluency,Ideational fluency,Extraversion,5,0.5797509043642028,0.3055749188472384
+BoundedRational,user_ideational_fluency,Ideational fluency,Agreeableness,5,0.4103913408340617,0.49253578170279744
+BoundedRational,user_ideational_fluency,Ideational fluency,Conscientiousness,5,0.8207826816681234,0.08858700531354378
+BoundedRational,user_ideational_fluency,Ideational fluency,Negative Emotionality,5,-0.8999999999999998,0.03738607346849875
+BoundedRational,user_ideational_fluency,Ideational fluency,Open-Mindedness,5,0.30779350562554625,0.614384002810333
+BoundedRational,user_cognitive_flexibility,Cognitive flexibility,Extraversion,5,0.7378647873726218,0.15461852312844926
+BoundedRational,user_cognitive_flexibility,Cognitive flexibility,Agreeableness,5,0.6668859288553503,0.21889398131323148
+BoundedRational,user_cognitive_flexibility,Cognitive flexibility,Conscientiousness,5,0.5642880936468347,0.3217233358243003
+BoundedRational,user_cognitive_flexibility,Cognitive flexibility,Negative Emotionality,5,-0.7999999999999999,0.10408803866182788
+BoundedRational,user_cognitive_flexibility,Cognitive flexibility,Open-Mindedness,5,0.46169025843831935,0.43376615616902764
+BoundedRational,user_problem_frame_development,Problem-frame development,Extraversion,5,0.2635231383473649,0.6683968370871738
+BoundedRational,user_problem_frame_development,Problem-frame development,Agreeableness,5,0.20519567041703085,0.7405819415910722
+BoundedRational,user_problem_frame_development,Problem-frame development,Conscientiousness,5,0.8207826816681234,0.08858700531354378
+BoundedRational,user_problem_frame_development,Problem-frame development,Negative Emotionality,5,-0.7,0.1881204043741873
+BoundedRational,user_problem_frame_development,Problem-frame development,Open-Mindedness,5,-0.30779350562554625,0.614384002810333
+BoundedRational,user_reflective_engagement,Reflective engagement,Extraversion,5,-0.10540925533894598,0.8660377229253148
+BoundedRational,user_reflective_engagement,Reflective engagement,Agreeableness,5,-0.05129891760425771,0.934712848108234
+BoundedRational,user_reflective_engagement,Reflective engagement,Conscientiousness,5,0.4103913408340617,0.49253578170279744
+BoundedRational,user_reflective_engagement,Reflective engagement,Negative Emotionality,5,-0.19999999999999998,0.7470600781046621
+BoundedRational,user_reflective_engagement,Reflective engagement,Open-Mindedness,5,-0.6155870112510925,0.2689977701158222
+BoundedRational,user_constraint_integration,Constraint integration,Extraversion,5,0.6324555320336759,0.25221549635550466
+BoundedRational,user_constraint_integration,Constraint integration,Agreeableness,5,0.6155870112510925,0.2689977701158222
+BoundedRational,user_constraint_integration,Constraint integration,Conscientiousness,5,0.4103913408340617,0.49253578170279744
+BoundedRational,user_constraint_integration,Constraint integration,Negative Emotionality,5,-0.7,0.1881204043741873
+BoundedRational,user_constraint_integration,Constraint integration,Open-Mindedness,5,-0.05129891760425771,0.934712848108234
+BoundedRational,user_epistemic_stance_regulation,Epistemic stance regulation,Extraversion,5,-0.10540925533894598,0.8660377229253148
+BoundedRational,user_epistemic_stance_regulation,Epistemic stance regulation,Agreeableness,5,-0.05129891760425771,0.934712848108234
+BoundedRational,user_epistemic_stance_regulation,Epistemic stance regulation,Conscientiousness,5,0.4103913408340617,0.49253578170279744
+BoundedRational,user_epistemic_stance_regulation,Epistemic stance regulation,Negative Emotionality,5,-0.19999999999999998,0.7470600781046621
+BoundedRational,user_epistemic_stance_regulation,Epistemic stance regulation,Open-Mindedness,5,-0.6155870112510925,0.2689977701158222
+BoundedRational,user_authorship_direction_setting,Authorship & direction-setting,Extraversion,5,0.5797509043642028,0.3055749188472384
+BoundedRational,user_authorship_direction_setting,Authorship & direction-setting,Agreeableness,5,0.4103913408340617,0.49253578170279744
+BoundedRational,user_authorship_direction_setting,Authorship & direction-setting,Conscientiousness,5,0.8207826816681234,0.08858700531354378
+BoundedRational,user_authorship_direction_setting,Authorship & direction-setting,Negative Emotionality,5,-0.8999999999999998,0.03738607346849875
+BoundedRational,user_authorship_direction_setting,Authorship & direction-setting,Open-Mindedness,5,0.30779350562554625,0.614384002810333
+BoundedRational,user_implementation_relevant_progress,Implementation-relevant progress,Extraversion,5,-0.5407380704358752,0.3467146139768868
+BoundedRational,user_implementation_relevant_progress,Implementation-relevant progress,Agreeableness,5,-0.7631578947368421,0.13333911953180624
+BoundedRational,user_implementation_relevant_progress,Implementation-relevant progress,Conscientiousness,5,0.5263157894736843,0.36224548118984495
+BoundedRational,user_implementation_relevant_progress,Implementation-relevant progress,Negative Emotionality,5,-0.051298917604257706,0.934712848108234
+BoundedRational,user_implementation_relevant_progress,Implementation-relevant progress,Open-Mindedness,5,-0.2894736842105264,0.6366447547494906

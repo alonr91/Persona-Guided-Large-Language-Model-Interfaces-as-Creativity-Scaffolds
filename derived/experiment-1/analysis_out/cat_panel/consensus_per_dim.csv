@@ -1,0 +1,9 @@
+dimension,label,n_complete_convs,n_total_convs,icc_2_k,mean_pairwise_kappa_qw,n_kappa_pairs,retention
+user_ideational_fluency,Ideational fluency,38,41,0.9773255436702578,0.8711008539294683,6,primary
+user_cognitive_flexibility,Cognitive flexibility,39,41,0.9700943663095593,0.8238719561630856,6,primary
+user_problem_frame_development,Problem-frame development,39,41,0.9867899236318532,0.9212877416688672,6,primary
+user_reflective_engagement,Reflective engagement,39,41,0.9701470203134936,0.7966714285935538,6,primary
+user_constraint_integration,Constraint integration,40,40,0.9813565231659044,0.9109981009312974,6,primary
+user_epistemic_stance_regulation,Epistemic stance regulation,40,40,0.9617416136318412,0.8506835943375758,6,primary
+user_authorship_direction_setting,Authorship & direction-setting,39,40,0.965870147234779,0.8677052328302026,6,primary
+user_implementation_relevant_progress,Implementation-relevant progress,40,40,0.976688583383144,0.8639174505794158,6,primary

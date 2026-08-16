@@ -1,0 +1,2 @@
+issue_id,file,row_or_id,issue_type,decision,affected_records,notes
+SIGN_a_prop,extension_conv_master.csv + extension_perception_corr.csv,,sign_audit,document_in_memo_tension,0,

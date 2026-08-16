@@ -1,0 +1,33 @@
+judge_id,dimension,label,n,r_log_words,p
+Dr_C,user_ideational_fluency,Ideational fluency,41,0.16348147754261844,0.30710691717121996
+Dr_C,user_cognitive_flexibility,Cognitive flexibility,40,0.051527561959635516,0.7521810158358546
+Dr_C,user_problem_frame_development,Problem-frame development,40,0.08549387767600002,0.5999121481579243
+Dr_C,user_reflective_engagement,Reflective engagement,40,0.35163688934793247,0.026079869347004625
+Dr_C,user_constraint_integration,Constraint integration,40,0.20915648977928186,0.1952318544555163
+Dr_C,user_epistemic_stance_regulation,Epistemic stance regulation,40,0.32259446090626054,0.04233555118878788
+Dr_C,user_authorship_direction_setting,Authorship & direction-setting,39,0.01668481330625214,0.9196985554729468
+Dr_C,user_implementation_relevant_progress,Implementation-relevant progress,40,0.3913836329039261,0.012512426939898747
+Dr_I,user_ideational_fluency,Ideational fluency,41,0.23882899283165432,0.13262856929520286
+Dr_I,user_cognitive_flexibility,Cognitive flexibility,41,0.18174060632343808,0.2554457303561802
+Dr_I,user_problem_frame_development,Problem-frame development,41,0.06334725195267356,0.6939709116574007
+Dr_I,user_reflective_engagement,Reflective engagement,41,0.3640468960610961,0.01929011911452579
+Dr_I,user_constraint_integration,Constraint integration,40,0.14858088572159892,0.36019007519713425
+Dr_I,user_epistemic_stance_regulation,Epistemic stance regulation,40,0.39924961448999124,0.010706936152069612
+Dr_I,user_authorship_direction_setting,Authorship & direction-setting,40,0.009872153766540824,0.9517904591320531
+Dr_I,user_implementation_relevant_progress,Implementation-relevant progress,40,0.41922797139115675,0.007088732178311935
+Dr_D,user_ideational_fluency,Ideational fluency,40,0.2365594583220737,0.14165872391380738
+Dr_D,user_cognitive_flexibility,Cognitive flexibility,41,0.2503777303183144,0.11436224807194342
+Dr_D,user_problem_frame_development,Problem-frame development,40,0.15911138116696144,0.32675816835657967
+Dr_D,user_reflective_engagement,Reflective engagement,40,0.3277777661479191,0.038947602246776805
+Dr_D,user_constraint_integration,Constraint integration,40,0.15640745267294096,0.3351518074987101
+Dr_D,user_epistemic_stance_regulation,Epistemic stance regulation,40,0.36746308862842053,0.019668409340500955
+Dr_D,user_authorship_direction_setting,Authorship & direction-setting,40,-0.03277883382498133,0.8408615841345146
+Dr_D,user_implementation_relevant_progress,Implementation-relevant progress,40,0.3927554734003598,0.012180109574877574
+Dr_L,user_ideational_fluency,Ideational fluency,39,0.1707187016047379,0.2987567211003608
+Dr_L,user_cognitive_flexibility,Cognitive flexibility,39,0.11146260120391983,0.4993288514370743
+Dr_L,user_problem_frame_development,Problem-frame development,40,0.09541647229920612,0.558097508255345
+Dr_L,user_reflective_engagement,Reflective engagement,40,0.37633113578431865,0.01669393743806012
+Dr_L,user_constraint_integration,Constraint integration,40,0.14492672792815636,0.3722560369867882
+Dr_L,user_epistemic_stance_regulation,Epistemic stance regulation,40,0.3080115432677972,0.05316680847444659
+Dr_L,user_authorship_direction_setting,Authorship & direction-setting,40,-0.13172926810567995,0.41779630397283785
+Dr_L,user_implementation_relevant_progress,Implementation-relevant progress,40,0.3008749570865323,0.05922294415674315

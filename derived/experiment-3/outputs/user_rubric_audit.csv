@@ -1,0 +1,7 @@
+criterion,A_B_MAE,pct_disagree_ge2,A_B_pearson_r,length_bias_R2
+user_initiative,0.11,0.0,0.89,0.06
+user_question_richness,0.0,0.0,1.0,0.02
+user_proposal_specificity,0.44,0.0,0.87,0.0
+user_acceptance_yes_and,0.17,0.0,0.91,0.1
+user_reframing,0.06,0.0,0.97,0.07
+user_engagement_depth,0.06,0.0,0.96,0.02

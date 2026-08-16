@@ -1,0 +1,506 @@
+conversation_id,group,persona_key,persona,originality_1_7,value_1_7,insight_reframing_1_7,development_1_7,integration_1_7,human_ethical_1_7,process_evidence_1_7,holistic_creativity_1_7,token_count
+635,experiment group,design_thinking,Design Thinking Expert,3.0,5.0,4.0,3.0,4.0,3.0,6.0,4.0,272
+635,experiment group,social_psych,Social Psychology Researcher,4.0,6.0,6.0,6.0,6.0,3.0,6.0,6.0,272
+635,experiment group,hci,HCI Expert,4.0,6.0,6.0,5.0,6.0,4.0,5.0,5.0,272
+635,experiment group,Philosopher,Philosopher/Ethicist,4.0,5.0,6.0,4.0,4.0,4.0,5.0,4.0,272
+635,experiment group,innovation,Innovation/Strategy Expert,3.0,5.0,5.0,4.0,5.0,4.0,6.0,5.0,272
+937,experiment group,design_thinking,Design Thinking Expert,5.0,5.0,4.0,4.0,5.0,2.0,4.0,4.0,119
+937,experiment group,social_psych,Social Psychology Researcher,5.0,5.0,3.0,3.0,5.0,3.0,3.0,3.0,119
+937,experiment group,hci,HCI Expert,5.0,4.0,3.0,4.0,5.0,3.0,4.0,4.0,119
+937,experiment group,Philosopher,Philosopher/Ethicist,5.0,5.0,3.0,3.0,5.0,2.0,4.0,4.0,119
+937,experiment group,innovation,Innovation/Strategy Expert,5.0,5.0,3.0,3.0,5.0,3.0,3.0,3.0,119
+939,experiment group,design_thinking,Design Thinking Expert,3.0,5.0,1.0,6.0,2.0,2.0,2.0,2.0,38
+939,experiment group,social_psych,Social Psychology Researcher,4.0,4.0,2.0,3.0,2.0,2.0,2.0,2.0,38
+939,experiment group,hci,HCI Expert,3.0,6.0,1.0,4.0,3.0,2.0,3.0,3.0,38
+939,experiment group,Philosopher,Philosopher/Ethicist,2.0,5.0,2.0,3.0,1.0,1.0,3.0,2.0,38
+939,experiment group,innovation,Innovation/Strategy Expert,3.0,6.0,2.0,5.0,2.0,2.0,4.0,3.0,38
+941,experiment group,design_thinking,Design Thinking Expert,3.0,4.0,3.0,2.0,3.0,5.0,3.0,3.0,427
+941,experiment group,social_psych,Social Psychology Researcher,3.0,3.0,4.0,3.0,4.0,6.0,4.0,4.0,427
+941,experiment group,hci,HCI Expert,3.0,3.0,4.0,2.0,4.0,5.0,4.0,4.0,427
+941,experiment group,Philosopher,Philosopher/Ethicist,2.0,3.0,2.0,1.0,3.0,5.0,5.0,3.0,427
+941,experiment group,innovation,Innovation/Strategy Expert,3.0,4.0,4.0,3.0,3.0,5.0,3.0,3.0,427
+943,control group,design_thinking,Design Thinking Expert,3.0,3.0,2.0,3.0,3.0,1.0,5.0,3.0,537
+943,control group,social_psych,Social Psychology Researcher,3.0,3.0,3.0,3.0,4.0,3.0,5.0,3.0,537
+943,control group,hci,HCI Expert,4.0,5.0,3.0,4.0,5.0,1.0,3.0,4.0,537
+943,control group,Philosopher,Philosopher/Ethicist,3.0,3.0,2.0,3.0,3.0,3.0,6.0,3.0,537
+943,control group,innovation,Innovation/Strategy Expert,3.0,3.0,3.0,3.0,5.0,3.0,5.0,3.0,537
+945,experiment group,design_thinking,Design Thinking Expert,5.0,5.0,5.0,5.0,6.0,3.0,5.0,5.0,416
+945,experiment group,social_psych,Social Psychology Researcher,4.0,5.0,4.0,3.0,5.0,2.0,3.0,4.0,416
+945,experiment group,hci,HCI Expert,4.0,6.0,4.0,4.0,4.0,3.0,3.0,4.0,416
+945,experiment group,Philosopher,Philosopher/Ethicist,6.0,5.0,5.0,6.0,6.0,3.0,5.0,5.0,416
+945,experiment group,innovation,Innovation/Strategy Expert,5.0,5.0,3.0,5.0,5.0,1.0,3.0,5.0,416
+947,experiment group,design_thinking,Design Thinking Expert,5.0,4.0,5.0,5.0,2.0,3.0,3.0,4.0,659
+947,experiment group,social_psych,Social Psychology Researcher,5.0,3.0,5.0,4.0,1.0,2.0,1.0,3.0,659
+947,experiment group,hci,HCI Expert,5.0,4.0,5.0,5.0,1.0,3.0,1.0,4.0,659
+947,experiment group,Philosopher,Philosopher/Ethicist,5.0,4.0,4.0,5.0,1.0,1.0,1.0,4.0,659
+947,experiment group,innovation,Innovation/Strategy Expert,5.0,4.0,5.0,5.0,2.0,3.0,3.0,4.0,659
+951,experiment group,design_thinking,Design Thinking Expert,4.0,5.0,5.0,3.0,4.0,3.0,1.0,4.0,886
+951,experiment group,social_psych,Social Psychology Researcher,5.0,6.0,6.0,4.0,4.0,4.0,3.0,4.0,886
+951,experiment group,hci,HCI Expert,3.0,4.0,5.0,4.0,4.0,3.0,2.0,4.0,886
+951,experiment group,Philosopher,Philosopher/Ethicist,4.0,5.0,5.0,5.0,5.0,4.0,1.0,5.0,886
+951,experiment group,innovation,Innovation/Strategy Expert,5.0,4.0,5.0,4.0,4.0,3.0,3.0,4.0,886
+953,experiment group,design_thinking,Design Thinking Expert,1.0,5.0,4.0,3.0,1.0,2.0,2.0,2.0,144
+953,experiment group,social_psych,Social Psychology Researcher,2.0,6.0,5.0,5.0,1.0,3.0,2.0,3.0,144
+953,experiment group,hci,HCI Expert,2.0,6.0,5.0,3.0,1.0,2.0,1.0,2.0,144
+953,experiment group,Philosopher,Philosopher/Ethicist,2.0,5.0,4.0,3.0,2.0,3.0,3.0,3.0,144
+953,experiment group,innovation,Innovation/Strategy Expert,2.0,4.0,4.0,3.0,1.0,2.0,1.0,2.0,144
+955,control group,design_thinking,Design Thinking Expert,3.0,4.0,3.0,4.0,3.0,3.0,4.0,3.0,379
+955,control group,social_psych,Social Psychology Researcher,2.0,4.0,3.0,3.0,2.0,3.0,4.0,3.0,379
+955,control group,hci,HCI Expert,4.0,5.0,3.0,4.0,3.0,5.0,4.0,4.0,379
+955,control group,Philosopher,Philosopher/Ethicist,3.0,3.0,3.0,4.0,2.0,5.0,4.0,3.0,379
+955,control group,innovation,Innovation/Strategy Expert,3.0,4.0,2.0,2.0,3.0,4.0,4.0,3.0,379
+957,experiment group,design_thinking,Design Thinking Expert,4.0,5.0,5.0,4.0,4.0,3.0,5.0,4.0,500
+957,experiment group,social_psych,Social Psychology Researcher,3.0,4.0,4.0,3.0,3.0,3.0,5.0,3.0,500
+957,experiment group,hci,HCI Expert,4.0,5.0,4.0,4.0,4.0,3.0,6.0,4.0,500
+957,experiment group,Philosopher,Philosopher/Ethicist,5.0,5.0,5.0,5.0,3.0,3.0,5.0,5.0,500
+957,experiment group,innovation,Innovation/Strategy Expert,4.0,6.0,6.0,4.0,3.0,3.0,5.0,4.0,500
+961,experiment group,design_thinking,Design Thinking Expert,3.0,4.0,1.0,3.0,4.0,2.0,1.0,3.0,45
+961,experiment group,social_psych,Social Psychology Researcher,3.0,4.0,2.0,3.0,4.0,1.0,3.0,3.0,45
+961,experiment group,hci,HCI Expert,4.0,4.0,3.0,3.0,4.0,3.0,2.0,3.0,45
+961,experiment group,Philosopher,Philosopher/Ethicist,4.0,4.0,2.0,2.0,5.0,2.0,2.0,2.0,45
+961,experiment group,innovation,Innovation/Strategy Expert,5.0,5.0,2.0,4.0,5.0,2.0,3.0,4.0,45
+969,experiment group,design_thinking,Design Thinking Expert,4.0,3.0,6.0,5.0,2.0,2.0,2.0,3.0,166
+969,experiment group,social_psych,Social Psychology Researcher,4.0,4.0,6.0,4.0,2.0,1.0,2.0,4.0,166
+969,experiment group,hci,HCI Expert,4.0,3.0,5.0,4.0,2.0,2.0,2.0,3.0,166
+969,experiment group,Philosopher,Philosopher/Ethicist,6.0,3.0,6.0,3.0,3.0,3.0,3.0,3.0,166
+969,experiment group,innovation,Innovation/Strategy Expert,2.0,3.0,6.0,3.0,2.0,2.0,2.0,2.0,166
+971,experiment group,design_thinking,Design Thinking Expert,4.0,5.0,6.0,6.0,6.0,3.0,2.0,5.0,717
+971,experiment group,social_psych,Social Psychology Researcher,4.0,4.0,5.0,3.0,5.0,3.0,3.0,4.0,717
+971,experiment group,hci,HCI Expert,4.0,5.0,6.0,6.0,6.0,3.0,2.0,5.0,717
+971,experiment group,Philosopher,Philosopher/Ethicist,4.0,5.0,5.0,4.0,5.0,3.0,3.0,4.0,717
+971,experiment group,innovation,Innovation/Strategy Expert,5.0,3.0,4.0,4.0,4.0,3.0,3.0,4.0,717
+975,control group,design_thinking,Design Thinking Expert,5.0,5.0,5.0,5.0,5.0,4.0,5.0,5.0,840
+975,control group,social_psych,Social Psychology Researcher,4.0,4.0,5.0,4.0,6.0,3.0,6.0,4.0,840
+975,control group,hci,HCI Expert,3.0,4.0,5.0,5.0,5.0,3.0,5.0,5.0,840
+975,control group,Philosopher,Philosopher/Ethicist,2.0,4.0,4.0,4.0,4.0,2.0,4.0,4.0,840
+975,control group,innovation,Innovation/Strategy Expert,3.0,4.0,5.0,4.0,5.0,4.0,5.0,4.0,840
+979,control group,design_thinking,Design Thinking Expert,4.0,3.0,3.0,1.0,4.0,1.0,1.0,3.0,312
+979,control group,social_psych,Social Psychology Researcher,5.0,4.0,3.0,1.0,4.0,1.0,1.0,3.0,312
+979,control group,hci,HCI Expert,4.0,3.0,3.0,1.0,4.0,1.0,1.0,3.0,312
+979,control group,Philosopher,Philosopher/Ethicist,5.0,3.0,2.0,1.0,3.0,1.0,1.0,2.0,312
+979,control group,innovation,Innovation/Strategy Expert,3.0,3.0,3.0,1.0,3.0,1.0,1.0,3.0,312
+981,experiment group,design_thinking,Design Thinking Expert,3.0,4.0,4.0,4.0,5.0,3.0,2.0,4.0,730
+981,experiment group,social_psych,Social Psychology Researcher,3.0,5.0,4.0,5.0,5.0,3.0,3.0,4.0,730
+981,experiment group,hci,HCI Expert,4.0,5.0,5.0,5.0,5.0,3.0,1.0,5.0,730
+981,experiment group,Philosopher,Philosopher/Ethicist,3.0,5.0,5.0,6.0,6.0,3.0,3.0,5.0,730
+981,experiment group,innovation,Innovation/Strategy Expert,3.0,5.0,4.0,4.0,5.0,4.0,3.0,4.0,730
+983,experiment group,design_thinking,Design Thinking Expert,5.0,4.0,6.0,5.0,6.0,3.0,6.0,5.0,1273
+983,experiment group,social_psych,Social Psychology Researcher,5.0,3.0,5.0,5.0,6.0,3.0,5.0,5.0,1273
+983,experiment group,hci,HCI Expert,6.0,4.0,6.0,5.0,5.0,3.0,6.0,5.0,1273
+983,experiment group,Philosopher,Philosopher/Ethicist,5.0,4.0,5.0,5.0,5.0,3.0,5.0,5.0,1273
+983,experiment group,innovation,Innovation/Strategy Expert,5.0,3.0,5.0,5.0,5.0,3.0,5.0,5.0,1273
+985,experiment group,design_thinking,Design Thinking Expert,4.0,3.0,5.0,2.0,5.0,3.0,2.0,3.0,243
+985,experiment group,social_psych,Social Psychology Researcher,4.0,3.0,4.0,2.0,4.0,3.0,1.0,3.0,243
+985,experiment group,hci,HCI Expert,5.0,4.0,5.0,4.0,5.0,2.0,2.0,4.0,243
+985,experiment group,Philosopher,Philosopher/Ethicist,5.0,4.0,5.0,3.0,6.0,3.0,4.0,4.0,243
+985,experiment group,innovation,Innovation/Strategy Expert,3.0,3.0,4.0,3.0,4.0,1.0,2.0,3.0,243
+987,control group,design_thinking,Design Thinking Expert,3.0,5.0,5.0,3.0,3.0,3.0,5.0,3.0,837
+987,control group,social_psych,Social Psychology Researcher,4.0,5.0,5.0,4.0,3.0,3.0,5.0,4.0,837
+987,control group,hci,HCI Expert,5.0,5.0,5.0,4.0,5.0,4.0,6.0,5.0,837
+987,control group,Philosopher,Philosopher/Ethicist,4.0,5.0,5.0,2.0,3.0,3.0,6.0,4.0,837
+987,control group,innovation,Innovation/Strategy Expert,4.0,5.0,4.0,3.0,4.0,4.0,5.0,4.0,837
+989,experiment group,design_thinking,Design Thinking Expert,5.0,3.0,6.0,5.0,5.0,4.0,6.0,5.0,612
+989,experiment group,social_psych,Social Psychology Researcher,5.0,2.0,5.0,5.0,5.0,5.0,5.0,5.0,612
+989,experiment group,hci,HCI Expert,5.0,4.0,5.0,5.0,5.0,4.0,5.0,5.0,612
+989,experiment group,Philosopher,Philosopher/Ethicist,6.0,4.0,5.0,5.0,5.0,4.0,6.0,5.0,612
+989,experiment group,innovation,Innovation/Strategy Expert,5.0,4.0,4.0,5.0,5.0,4.0,5.0,5.0,612
+991,experiment group,design_thinking,Design Thinking Expert,3.0,5.0,5.0,4.0,6.0,4.0,3.0,4.0,463
+991,experiment group,social_psych,Social Psychology Researcher,6.0,5.0,6.0,5.0,6.0,4.0,2.0,5.0,463
+991,experiment group,hci,HCI Expert,4.0,4.0,4.0,3.0,4.0,3.0,2.0,4.0,463
+991,experiment group,Philosopher,Philosopher/Ethicist,5.0,5.0,5.0,5.0,5.0,3.0,1.0,5.0,463
+991,experiment group,innovation,Innovation/Strategy Expert,5.0,4.0,5.0,4.0,5.0,4.0,2.0,4.0,463
+995,control group,design_thinking,Design Thinking Expert,6.0,3.0,3.0,3.0,5.0,3.0,3.0,3.0,124
+995,control group,social_psych,Social Psychology Researcher,5.0,4.0,2.0,3.0,3.0,1.0,2.0,3.0,124
+995,control group,hci,HCI Expert,5.0,5.0,3.0,4.0,5.0,3.0,3.0,4.0,124
+995,control group,Philosopher,Philosopher/Ethicist,5.0,4.0,2.0,4.0,4.0,2.0,4.0,4.0,124
+995,control group,innovation,Innovation/Strategy Expert,5.0,5.0,3.0,5.0,3.0,3.0,3.0,3.0,124
+997,control group,design_thinking,Design Thinking Expert,5.0,4.0,5.0,2.0,3.0,1.0,5.0,4.0,504
+997,control group,social_psych,Social Psychology Researcher,4.0,4.0,3.0,3.0,3.0,1.0,4.0,3.0,504
+997,control group,hci,HCI Expert,2.0,4.0,4.0,3.0,4.0,2.0,4.0,4.0,504
+997,control group,Philosopher,Philosopher/Ethicist,5.0,6.0,4.0,4.0,5.0,1.0,4.0,4.0,504
+997,control group,innovation,Innovation/Strategy Expert,3.0,5.0,4.0,4.0,4.0,1.0,4.0,4.0,504
+1005,experiment group,design_thinking,Design Thinking Expert,4.0,5.0,4.0,4.0,5.0,3.0,2.0,4.0,1175
+1005,experiment group,social_psych,Social Psychology Researcher,5.0,4.0,5.0,4.0,4.0,3.0,1.0,4.0,1175
+1005,experiment group,hci,HCI Expert,4.0,4.0,4.0,4.0,4.0,3.0,2.0,4.0,1175
+1005,experiment group,Philosopher,Philosopher/Ethicist,3.0,4.0,5.0,3.0,4.0,3.0,1.0,3.0,1175
+1005,experiment group,innovation,Innovation/Strategy Expert,4.0,5.0,4.0,3.0,5.0,1.0,1.0,4.0,1175
+1007,control group,design_thinking,Design Thinking Expert,3.0,4.0,6.0,3.0,2.0,1.0,3.0,3.0,497
+1007,control group,social_psych,Social Psychology Researcher,4.0,4.0,6.0,4.0,4.0,3.0,3.0,4.0,497
+1007,control group,hci,HCI Expert,3.0,3.0,4.0,3.0,3.0,2.0,3.0,3.0,497
+1007,control group,Philosopher,Philosopher/Ethicist,4.0,5.0,5.0,3.0,3.0,2.0,3.0,3.0,497
+1007,control group,innovation,Innovation/Strategy Expert,4.0,4.0,5.0,3.0,2.0,2.0,2.0,3.0,497
+1009,experiment group,design_thinking,Design Thinking Expert,3.0,3.0,3.0,3.0,3.0,4.0,3.0,3.0,331
+1009,experiment group,social_psych,Social Psychology Researcher,2.0,5.0,3.0,4.0,5.0,4.0,6.0,4.0,331
+1009,experiment group,hci,HCI Expert,4.0,4.0,5.0,4.0,5.0,4.0,6.0,4.0,331
+1009,experiment group,Philosopher,Philosopher/Ethicist,3.0,5.0,4.0,4.0,5.0,3.0,6.0,4.0,331
+1009,experiment group,innovation,Innovation/Strategy Expert,3.0,3.0,3.0,3.0,4.0,4.0,6.0,3.0,331
+1011,experiment group,design_thinking,Design Thinking Expert,5.0,4.0,5.0,1.0,1.0,2.0,3.0,3.0,405
+1011,experiment group,social_psych,Social Psychology Researcher,6.0,6.0,6.0,3.0,3.0,2.0,3.0,3.0,405
+1011,experiment group,hci,HCI Expert,5.0,5.0,5.0,3.0,1.0,2.0,3.0,3.0,405
+1011,experiment group,Philosopher,Philosopher/Ethicist,5.0,5.0,5.0,4.0,4.0,3.0,4.0,4.0,405
+1011,experiment group,innovation,Innovation/Strategy Expert,5.0,4.0,5.0,4.0,3.0,3.0,4.0,4.0,405
+1015,control group,design_thinking,Design Thinking Expert,2.0,5.0,4.0,3.0,5.0,4.0,4.0,4.0,1132
+1015,control group,social_psych,Social Psychology Researcher,2.0,3.0,3.0,3.0,3.0,3.0,4.0,3.0,1132
+1015,control group,hci,HCI Expert,2.0,4.0,3.0,3.0,4.0,3.0,4.0,3.0,1132
+1015,control group,Philosopher,Philosopher/Ethicist,2.0,5.0,4.0,4.0,5.0,5.0,5.0,5.0,1132
+1015,control group,innovation,Innovation/Strategy Expert,2.0,5.0,4.0,1.0,3.0,4.0,4.0,4.0,1132
+1017,experiment group,design_thinking,Design Thinking Expert,3.0,5.0,4.0,5.0,5.0,4.0,5.0,5.0,468
+1017,experiment group,social_psych,Social Psychology Researcher,3.0,5.0,2.0,4.0,5.0,3.0,6.0,4.0,468
+1017,experiment group,hci,HCI Expert,5.0,5.0,3.0,4.0,4.0,3.0,5.0,4.0,468
+1017,experiment group,Philosopher,Philosopher/Ethicist,3.0,5.0,3.0,4.0,5.0,3.0,6.0,4.0,468
+1017,experiment group,innovation,Innovation/Strategy Expert,3.0,5.0,4.0,5.0,6.0,4.0,5.0,5.0,468
+1021,experiment group,design_thinking,Design Thinking Expert,3.0,3.0,2.0,2.0,3.0,2.0,6.0,3.0,428
+1021,experiment group,social_psych,Social Psychology Researcher,4.0,5.0,3.0,3.0,3.0,2.0,5.0,3.0,428
+1021,experiment group,hci,HCI Expert,4.0,4.0,3.0,3.0,3.0,2.0,6.0,3.0,428
+1021,experiment group,Philosopher,Philosopher/Ethicist,4.0,5.0,3.0,3.0,4.0,2.0,6.0,4.0,428
+1021,experiment group,innovation,Innovation/Strategy Expert,5.0,5.0,4.0,4.0,4.0,3.0,6.0,4.0,428
+1023,experiment group,design_thinking,Design Thinking Expert,5.0,5.0,6.0,5.0,5.0,5.0,6.0,5.0,841
+1023,experiment group,social_psych,Social Psychology Researcher,5.0,5.0,6.0,5.0,5.0,4.0,6.0,5.0,841
+1023,experiment group,hci,HCI Expert,4.0,5.0,5.0,5.0,4.0,4.0,5.0,5.0,841
+1023,experiment group,Philosopher,Philosopher/Ethicist,5.0,5.0,5.0,3.0,3.0,5.0,5.0,5.0,841
+1023,experiment group,innovation,Innovation/Strategy Expert,4.0,5.0,5.0,2.0,2.0,5.0,5.0,5.0,841
+1027,experiment group,design_thinking,Design Thinking Expert,2.0,5.0,3.0,3.0,3.0,3.0,5.0,3.0,665
+1027,experiment group,social_psych,Social Psychology Researcher,2.0,4.0,4.0,3.0,3.0,3.0,5.0,3.0,665
+1027,experiment group,hci,HCI Expert,2.0,3.0,4.0,3.0,3.0,3.0,6.0,3.0,665
+1027,experiment group,Philosopher,Philosopher/Ethicist,3.0,4.0,5.0,4.0,4.0,3.0,6.0,4.0,665
+1027,experiment group,innovation,Innovation/Strategy Expert,2.0,4.0,5.0,3.0,4.0,4.0,5.0,4.0,665
+1029,experiment group,design_thinking,Design Thinking Expert,4.0,6.0,4.0,5.0,5.0,1.0,5.0,5.0,725
+1029,experiment group,social_psych,Social Psychology Researcher,4.0,5.0,3.0,5.0,6.0,3.0,6.0,5.0,725
+1029,experiment group,hci,HCI Expert,3.0,5.0,3.0,5.0,6.0,3.0,6.0,5.0,725
+1029,experiment group,Philosopher,Philosopher/Ethicist,4.0,6.0,3.0,6.0,6.0,3.0,5.0,5.0,725
+1029,experiment group,innovation,Innovation/Strategy Expert,4.0,6.0,6.0,6.0,6.0,3.0,5.0,6.0,725
+1031,experiment group,design_thinking,Design Thinking Expert,3.0,3.0,3.0,3.0,3.0,1.0,2.0,3.0,492
+1031,experiment group,social_psych,Social Psychology Researcher,2.0,4.0,2.0,2.0,1.0,2.0,1.0,2.0,492
+1031,experiment group,hci,HCI Expert,4.0,5.0,5.0,3.0,2.0,3.0,1.0,3.0,492
+1031,experiment group,Philosopher,Philosopher/Ethicist,3.0,4.0,3.0,3.0,3.0,2.0,2.0,3.0,492
+1031,experiment group,innovation,Innovation/Strategy Expert,4.0,5.0,6.0,5.0,4.0,3.0,2.0,4.0,492
+1033,control group,design_thinking,Design Thinking Expert,3.0,3.0,5.0,3.0,5.0,2.0,6.0,3.0,771
+1033,control group,social_psych,Social Psychology Researcher,3.0,2.0,4.0,3.0,4.0,4.0,6.0,4.0,771
+1033,control group,hci,HCI Expert,3.0,4.0,6.0,3.0,4.0,3.0,6.0,4.0,771
+1033,control group,Philosopher,Philosopher/Ethicist,3.0,3.0,6.0,3.0,4.0,3.0,5.0,3.0,771
+1033,control group,innovation,Innovation/Strategy Expert,4.0,3.0,4.0,3.0,5.0,3.0,6.0,4.0,771
+1035,experiment group,design_thinking,Design Thinking Expert,2.0,3.0,5.0,5.0,3.0,1.0,2.0,3.0,393
+1035,experiment group,social_psych,Social Psychology Researcher,1.0,2.0,4.0,6.0,5.0,2.0,2.0,2.0,393
+1035,experiment group,hci,HCI Expert,1.0,3.0,5.0,6.0,4.0,2.0,2.0,3.0,393
+1035,experiment group,Philosopher,Philosopher/Ethicist,2.0,3.0,5.0,5.0,6.0,3.0,3.0,3.0,393
+1035,experiment group,innovation,Innovation/Strategy Expert,2.0,3.0,6.0,6.0,6.0,1.0,2.0,3.0,393
+1043,experiment group,design_thinking,Design Thinking Expert,2.0,4.0,3.0,5.0,5.0,3.0,2.0,3.0,398
+1043,experiment group,social_psych,Social Psychology Researcher,2.0,4.0,2.0,5.0,5.0,3.0,3.0,3.0,398
+1043,experiment group,hci,HCI Expert,3.0,4.0,3.0,5.0,6.0,3.0,3.0,3.0,398
+1043,experiment group,Philosopher,Philosopher/Ethicist,2.0,3.0,3.0,4.0,6.0,3.0,1.0,3.0,398
+1043,experiment group,innovation,Innovation/Strategy Expert,2.0,3.0,2.0,5.0,6.0,2.0,2.0,2.0,398
+1047,control group,design_thinking,Design Thinking Expert,4.0,3.0,5.0,4.0,3.0,3.0,2.0,3.0,510
+1047,control group,social_psych,Social Psychology Researcher,4.0,4.0,5.0,5.0,4.0,2.0,3.0,4.0,510
+1047,control group,hci,HCI Expert,4.0,3.0,5.0,2.0,3.0,3.0,3.0,3.0,510
+1047,control group,Philosopher,Philosopher/Ethicist,4.0,4.0,5.0,4.0,3.0,2.0,3.0,4.0,510
+1047,control group,innovation,Innovation/Strategy Expert,5.0,2.0,3.0,3.0,3.0,2.0,2.0,3.0,510
+1049,experiment group,design_thinking,Design Thinking Expert,3.0,3.0,4.0,6.0,6.0,3.0,2.0,3.0,662
+1049,experiment group,social_psych,Social Psychology Researcher,3.0,3.0,3.0,3.0,4.0,3.0,2.0,3.0,662
+1049,experiment group,hci,HCI Expert,3.0,3.0,3.0,5.0,5.0,4.0,1.0,3.0,662
+1049,experiment group,Philosopher,Philosopher/Ethicist,3.0,4.0,4.0,4.0,4.0,2.0,1.0,4.0,662
+1049,experiment group,innovation,Innovation/Strategy Expert,2.0,5.0,5.0,5.0,5.0,4.0,3.0,5.0,662
+1053,experiment group,design_thinking,Design Thinking Expert,2.0,5.0,2.0,4.0,5.0,1.0,6.0,4.0,1259
+1053,experiment group,social_psych,Social Psychology Researcher,2.0,5.0,3.0,3.0,5.0,2.0,4.0,3.0,1259
+1053,experiment group,hci,HCI Expert,2.0,5.0,5.0,3.0,5.0,2.0,6.0,5.0,1259
+1053,experiment group,Philosopher,Philosopher/Ethicist,3.0,5.0,5.0,5.0,5.0,1.0,6.0,5.0,1259
+1053,experiment group,innovation,Innovation/Strategy Expert,2.0,6.0,4.0,3.0,5.0,2.0,5.0,4.0,1259
+1055,experiment group,design_thinking,Design Thinking Expert,3.0,5.0,5.0,3.0,3.0,4.0,6.0,4.0,772
+1055,experiment group,social_psych,Social Psychology Researcher,4.0,5.0,5.0,6.0,5.0,4.0,6.0,5.0,772
+1055,experiment group,hci,HCI Expert,4.0,5.0,5.0,4.0,3.0,5.0,5.0,5.0,772
+1055,experiment group,Philosopher,Philosopher/Ethicist,3.0,5.0,5.0,4.0,4.0,4.0,6.0,4.0,772
+1055,experiment group,innovation,Innovation/Strategy Expert,4.0,5.0,5.0,5.0,5.0,6.0,6.0,5.0,772
+1057,experiment group,design_thinking,Design Thinking Expert,4.0,3.0,3.0,4.0,4.0,5.0,5.0,4.0,1218
+1057,experiment group,social_psych,Social Psychology Researcher,5.0,5.0,4.0,5.0,5.0,5.0,6.0,5.0,1218
+1057,experiment group,hci,HCI Expert,4.0,4.0,5.0,5.0,5.0,6.0,6.0,5.0,1218
+1057,experiment group,Philosopher,Philosopher/Ethicist,5.0,5.0,5.0,5.0,5.0,5.0,6.0,5.0,1218
+1057,experiment group,innovation,Innovation/Strategy Expert,5.0,5.0,5.0,5.0,5.0,5.0,6.0,5.0,1218
+1059,control group,design_thinking,Design Thinking Expert,5.0,6.0,4.0,5.0,5.0,4.0,5.0,5.0,590
+1059,control group,social_psych,Social Psychology Researcher,5.0,5.0,5.0,5.0,5.0,3.0,5.0,5.0,590
+1059,control group,hci,HCI Expert,5.0,5.0,5.0,5.0,5.0,4.0,5.0,5.0,590
+1059,control group,Philosopher,Philosopher/Ethicist,5.0,5.0,5.0,5.0,5.0,4.0,6.0,5.0,590
+1059,control group,innovation,Innovation/Strategy Expert,4.0,4.0,5.0,5.0,5.0,3.0,5.0,5.0,590
+1061,control group,design_thinking,Design Thinking Expert,4.0,5.0,5.0,5.0,5.0,3.0,4.0,5.0,1019
+1061,control group,social_psych,Social Psychology Researcher,3.0,4.0,4.0,5.0,5.0,3.0,4.0,4.0,1019
+1061,control group,hci,HCI Expert,4.0,4.0,5.0,5.0,4.0,3.0,4.0,4.0,1019
+1061,control group,Philosopher,Philosopher/Ethicist,5.0,5.0,5.0,5.0,5.0,3.0,6.0,5.0,1019
+1061,control group,innovation,Innovation/Strategy Expert,2.0,3.0,3.0,3.0,3.0,2.0,3.0,3.0,1019
+1063,control group,design_thinking,Design Thinking Expert,4.0,3.0,5.0,3.0,4.0,3.0,3.0,3.0,926
+1063,control group,social_psych,Social Psychology Researcher,2.0,3.0,5.0,3.0,2.0,3.0,2.0,3.0,926
+1063,control group,hci,HCI Expert,3.0,3.0,5.0,3.0,5.0,2.0,1.0,3.0,926
+1063,control group,Philosopher,Philosopher/Ethicist,4.0,3.0,4.0,3.0,4.0,2.0,1.0,3.0,926
+1063,control group,innovation,Innovation/Strategy Expert,3.0,3.0,5.0,2.0,5.0,3.0,3.0,3.0,926
+1065,experiment group,design_thinking,Design Thinking Expert,4.0,3.0,3.0,1.0,4.0,3.0,2.0,3.0,773
+1065,experiment group,social_psych,Social Psychology Researcher,5.0,4.0,3.0,3.0,6.0,4.0,3.0,4.0,773
+1065,experiment group,hci,HCI Expert,3.0,3.0,3.0,2.0,6.0,3.0,3.0,3.0,773
+1065,experiment group,Philosopher,Philosopher/Ethicist,3.0,5.0,4.0,3.0,4.0,2.0,3.0,3.0,773
+1065,experiment group,innovation,Innovation/Strategy Expert,4.0,4.0,4.0,2.0,5.0,6.0,1.0,4.0,773
+1067,experiment group,design_thinking,Design Thinking Expert,6.0,6.0,6.0,6.0,6.0,3.0,2.0,5.0,771
+1067,experiment group,social_psych,Social Psychology Researcher,6.0,6.0,6.0,5.0,6.0,2.0,3.0,6.0,771
+1067,experiment group,hci,HCI Expert,6.0,5.0,6.0,5.0,5.0,3.0,3.0,5.0,771
+1067,experiment group,Philosopher,Philosopher/Ethicist,6.0,6.0,6.0,5.0,5.0,3.0,2.0,5.0,771
+1067,experiment group,innovation,Innovation/Strategy Expert,6.0,4.0,6.0,5.0,4.0,3.0,3.0,4.0,771
+1069,experiment group,design_thinking,Design Thinking Expert,4.0,4.0,4.0,4.0,5.0,3.0,6.0,4.0,339
+1069,experiment group,social_psych,Social Psychology Researcher,5.0,5.0,6.0,6.0,6.0,3.0,6.0,6.0,339
+1069,experiment group,hci,HCI Expert,4.0,5.0,6.0,5.0,5.0,3.0,5.0,5.0,339
+1069,experiment group,Philosopher,Philosopher/Ethicist,3.0,5.0,4.0,5.0,5.0,3.0,5.0,5.0,339
+1069,experiment group,innovation,Innovation/Strategy Expert,3.0,5.0,5.0,5.0,6.0,3.0,6.0,5.0,339
+1071,experiment group,design_thinking,Design Thinking Expert,4.0,4.0,3.0,5.0,4.0,2.0,5.0,4.0,1232
+1071,experiment group,social_psych,Social Psychology Researcher,4.0,4.0,1.0,5.0,5.0,1.0,5.0,4.0,1232
+1071,experiment group,hci,HCI Expert,4.0,4.0,3.0,5.0,6.0,1.0,5.0,4.0,1232
+1071,experiment group,Philosopher,Philosopher/Ethicist,5.0,5.0,3.0,5.0,6.0,3.0,6.0,5.0,1232
+1071,experiment group,innovation,Innovation/Strategy Expert,4.0,4.0,2.0,5.0,4.0,2.0,5.0,4.0,1232
+1073,experiment group,design_thinking,Design Thinking Expert,4.0,5.0,6.0,4.0,5.0,6.0,4.0,5.0,865
+1073,experiment group,social_psych,Social Psychology Researcher,3.0,4.0,4.0,3.0,5.0,6.0,5.0,4.0,865
+1073,experiment group,hci,HCI Expert,3.0,4.0,5.0,5.0,5.0,6.0,2.0,5.0,865
+1073,experiment group,Philosopher,Philosopher/Ethicist,4.0,6.0,5.0,3.0,5.0,6.0,3.0,5.0,865
+1073,experiment group,innovation,Innovation/Strategy Expert,3.0,6.0,5.0,3.0,4.0,6.0,3.0,4.0,865
+1075,control group,design_thinking,Design Thinking Expert,4.0,4.0,4.0,3.0,4.0,3.0,3.0,4.0,759
+1075,control group,social_psych,Social Psychology Researcher,3.0,3.0,5.0,3.0,4.0,3.0,3.0,3.0,759
+1075,control group,hci,HCI Expert,2.0,3.0,3.0,3.0,4.0,3.0,3.0,3.0,759
+1075,control group,Philosopher,Philosopher/Ethicist,4.0,4.0,5.0,4.0,4.0,3.0,4.0,4.0,759
+1075,control group,innovation,Innovation/Strategy Expert,4.0,4.0,5.0,4.0,4.0,3.0,4.0,4.0,759
+1081,control group,design_thinking,Design Thinking Expert,2.0,4.0,5.0,4.0,4.0,3.0,1.0,4.0,570
+1081,control group,social_psych,Social Psychology Researcher,3.0,5.0,5.0,5.0,5.0,3.0,1.0,5.0,570
+1081,control group,hci,HCI Expert,3.0,5.0,5.0,4.0,5.0,3.0,1.0,4.0,570
+1081,control group,Philosopher,Philosopher/Ethicist,3.0,4.0,5.0,4.0,5.0,3.0,1.0,4.0,570
+1081,control group,innovation,Innovation/Strategy Expert,3.0,5.0,5.0,4.0,5.0,3.0,1.0,4.0,570
+1083,control group,design_thinking,Design Thinking Expert,3.0,3.0,2.0,3.0,3.0,3.0,2.0,3.0,481
+1083,control group,social_psych,Social Psychology Researcher,5.0,4.0,5.0,4.0,5.0,3.0,1.0,4.0,481
+1083,control group,hci,HCI Expert,5.0,5.0,5.0,5.0,5.0,3.0,3.0,5.0,481
+1083,control group,Philosopher,Philosopher/Ethicist,6.0,4.0,6.0,4.0,6.0,3.0,1.0,4.0,481
+1083,control group,innovation,Innovation/Strategy Expert,5.0,2.0,5.0,5.0,5.0,3.0,3.0,5.0,481
+1085,experiment group,design_thinking,Design Thinking Expert,3.0,4.0,6.0,5.0,5.0,3.0,4.0,4.0,443
+1085,experiment group,social_psych,Social Psychology Researcher,4.0,4.0,6.0,5.0,6.0,3.0,6.0,5.0,443
+1085,experiment group,hci,HCI Expert,3.0,3.0,5.0,4.0,4.0,1.0,4.0,4.0,443
+1085,experiment group,Philosopher,Philosopher/Ethicist,3.0,4.0,5.0,5.0,5.0,3.0,5.0,5.0,443
+1085,experiment group,innovation,Innovation/Strategy Expert,5.0,5.0,5.0,5.0,6.0,1.0,5.0,5.0,443
+1087,experiment group,design_thinking,Design Thinking Expert,4.0,4.0,5.0,3.0,4.0,3.0,4.0,4.0,631
+1087,experiment group,social_psych,Social Psychology Researcher,3.0,3.0,1.0,3.0,3.0,5.0,5.0,3.0,631
+1087,experiment group,hci,HCI Expert,5.0,4.0,5.0,4.0,5.0,4.0,5.0,5.0,631
+1087,experiment group,Philosopher,Philosopher/Ethicist,3.0,3.0,4.0,4.0,4.0,5.0,4.0,4.0,631
+1087,experiment group,innovation,Innovation/Strategy Expert,3.0,3.0,3.0,3.0,3.0,2.0,4.0,3.0,631
+1091,control group,design_thinking,Design Thinking Expert,4.0,5.0,5.0,4.0,6.0,5.0,2.0,5.0,794
+1091,control group,social_psych,Social Psychology Researcher,5.0,4.0,5.0,3.0,4.0,6.0,4.0,4.0,794
+1091,control group,hci,HCI Expert,4.0,6.0,6.0,5.0,5.0,6.0,4.0,5.0,794
+1091,control group,Philosopher,Philosopher/Ethicist,3.0,3.0,5.0,3.0,5.0,6.0,3.0,3.0,794
+1091,control group,innovation,Innovation/Strategy Expert,3.0,5.0,6.0,5.0,5.0,6.0,3.0,5.0,794
+1093,experiment group,design_thinking,Design Thinking Expert,4.0,4.0,4.0,3.0,4.0,3.0,4.0,4.0,447
+1093,experiment group,social_psych,Social Psychology Researcher,5.0,4.0,3.0,3.0,4.0,3.0,5.0,4.0,447
+1093,experiment group,hci,HCI Expert,3.0,4.0,4.0,4.0,4.0,2.0,4.0,4.0,447
+1093,experiment group,Philosopher,Philosopher/Ethicist,4.0,5.0,4.0,3.0,4.0,3.0,4.0,4.0,447
+1093,experiment group,innovation,Innovation/Strategy Expert,5.0,4.0,3.0,4.0,5.0,3.0,4.0,4.0,447
+1095,experiment group,design_thinking,Design Thinking Expert,4.0,5.0,5.0,4.0,5.0,5.0,5.0,5.0,402
+1095,experiment group,social_psych,Social Psychology Researcher,3.0,5.0,5.0,4.0,5.0,5.0,5.0,5.0,402
+1095,experiment group,hci,HCI Expert,4.0,5.0,5.0,4.0,4.0,5.0,5.0,5.0,402
+1095,experiment group,Philosopher,Philosopher/Ethicist,4.0,5.0,5.0,4.0,5.0,4.0,3.0,4.0,402
+1095,experiment group,innovation,Innovation/Strategy Expert,3.0,5.0,5.0,4.0,5.0,5.0,5.0,5.0,402
+1097,experiment group,design_thinking,Design Thinking Expert,3.0,6.0,6.0,4.0,4.0,1.0,5.0,4.0,872
+1097,experiment group,social_psych,Social Psychology Researcher,4.0,6.0,5.0,4.0,4.0,3.0,6.0,4.0,872
+1097,experiment group,hci,HCI Expert,3.0,6.0,4.0,4.0,4.0,1.0,6.0,4.0,872
+1097,experiment group,Philosopher,Philosopher/Ethicist,5.0,5.0,5.0,4.0,4.0,3.0,6.0,5.0,872
+1097,experiment group,innovation,Innovation/Strategy Expert,4.0,6.0,5.0,3.0,4.0,2.0,3.0,4.0,872
+1099,experiment group,design_thinking,Design Thinking Expert,5.0,4.0,5.0,4.0,4.0,3.0,2.0,4.0,488
+1099,experiment group,social_psych,Social Psychology Researcher,4.0,4.0,4.0,5.0,5.0,3.0,3.0,4.0,488
+1099,experiment group,hci,HCI Expert,5.0,4.0,4.0,4.0,4.0,3.0,3.0,4.0,488
+1099,experiment group,Philosopher,Philosopher/Ethicist,5.0,4.0,5.0,5.0,4.0,1.0,1.0,4.0,488
+1099,experiment group,innovation,Innovation/Strategy Expert,5.0,2.0,5.0,5.0,5.0,3.0,2.0,5.0,488
+1103,control group,design_thinking,Design Thinking Expert,3.0,5.0,3.0,3.0,6.0,3.0,2.0,3.0,483
+1103,control group,social_psych,Social Psychology Researcher,3.0,5.0,5.0,3.0,6.0,2.0,2.0,3.0,483
+1103,control group,hci,HCI Expert,2.0,5.0,3.0,4.0,6.0,2.0,2.0,3.0,483
+1103,control group,Philosopher,Philosopher/Ethicist,2.0,6.0,3.0,2.0,6.0,3.0,1.0,3.0,483
+1103,control group,innovation,Innovation/Strategy Expert,4.0,6.0,4.0,3.0,6.0,2.0,2.0,4.0,483
+1105,control group,design_thinking,Design Thinking Expert,3.0,4.0,3.0,3.0,2.0,4.0,1.0,3.0,257
+1105,control group,social_psych,Social Psychology Researcher,4.0,5.0,3.0,4.0,2.0,4.0,2.0,4.0,257
+1105,control group,hci,HCI Expert,4.0,4.0,4.0,4.0,3.0,4.0,3.0,4.0,257
+1105,control group,Philosopher,Philosopher/Ethicist,3.0,3.0,1.0,3.0,1.0,4.0,1.0,3.0,257
+1105,control group,innovation,Innovation/Strategy Expert,3.0,3.0,1.0,3.0,1.0,3.0,1.0,3.0,257
+1107,experiment group,design_thinking,Design Thinking Expert,3.0,3.0,3.0,3.0,4.0,2.0,3.0,3.0,245
+1107,experiment group,social_psych,Social Psychology Researcher,4.0,4.0,3.0,4.0,6.0,3.0,4.0,4.0,245
+1107,experiment group,hci,HCI Expert,3.0,3.0,4.0,3.0,5.0,3.0,3.0,3.0,245
+1107,experiment group,Philosopher,Philosopher/Ethicist,3.0,3.0,3.0,3.0,5.0,2.0,3.0,3.0,245
+1107,experiment group,innovation,Innovation/Strategy Expert,3.0,3.0,2.0,3.0,4.0,3.0,3.0,3.0,245
+1111,experiment group,design_thinking,Design Thinking Expert,5.0,5.0,5.0,5.0,5.0,3.0,5.0,5.0,479
+1111,experiment group,social_psych,Social Psychology Researcher,5.0,5.0,5.0,5.0,5.0,3.0,4.0,5.0,479
+1111,experiment group,hci,HCI Expert,5.0,5.0,5.0,5.0,5.0,3.0,5.0,5.0,479
+1111,experiment group,Philosopher,Philosopher/Ethicist,6.0,5.0,5.0,5.0,5.0,3.0,5.0,5.0,479
+1111,experiment group,innovation,Innovation/Strategy Expert,5.0,4.0,4.0,5.0,5.0,3.0,5.0,5.0,479
+1115,experiment group,design_thinking,Design Thinking Expert,2.0,4.0,5.0,4.0,4.0,3.0,5.0,4.0,846
+1115,experiment group,social_psych,Social Psychology Researcher,4.0,4.0,5.0,4.0,4.0,3.0,5.0,4.0,846
+1115,experiment group,hci,HCI Expert,4.0,5.0,5.0,5.0,6.0,3.0,5.0,5.0,846
+1115,experiment group,Philosopher,Philosopher/Ethicist,1.0,3.0,4.0,4.0,4.0,2.0,5.0,4.0,846
+1115,experiment group,innovation,Innovation/Strategy Expert,2.0,3.0,3.0,3.0,3.0,3.0,5.0,3.0,846
+1119,experiment group,design_thinking,Design Thinking Expert,2.0,3.0,4.0,3.0,4.0,2.0,3.0,3.0,803
+1119,experiment group,social_psych,Social Psychology Researcher,2.0,3.0,5.0,3.0,5.0,3.0,3.0,3.0,803
+1119,experiment group,hci,HCI Expert,1.0,3.0,5.0,2.0,3.0,2.0,2.0,2.0,803
+1119,experiment group,Philosopher,Philosopher/Ethicist,1.0,3.0,4.0,2.0,2.0,1.0,2.0,2.0,803
+1119,experiment group,innovation,Innovation/Strategy Expert,2.0,4.0,4.0,1.0,3.0,2.0,1.0,2.0,803
+1125,experiment group,design_thinking,Design Thinking Expert,6.0,6.0,3.0,2.0,5.0,2.0,4.0,4.0,718
+1125,experiment group,social_psych,Social Psychology Researcher,5.0,5.0,5.0,3.0,5.0,3.0,5.0,5.0,718
+1125,experiment group,hci,HCI Expert,6.0,6.0,4.0,4.0,5.0,2.0,5.0,5.0,718
+1125,experiment group,Philosopher,Philosopher/Ethicist,3.0,6.0,4.0,2.0,4.0,2.0,4.0,4.0,718
+1125,experiment group,innovation,Innovation/Strategy Expert,5.0,5.0,5.0,3.0,3.0,3.0,5.0,5.0,718
+1127,experiment group,design_thinking,Design Thinking Expert,5.0,4.0,2.0,4.0,5.0,2.0,2.0,4.0,379
+1127,experiment group,social_psych,Social Psychology Researcher,5.0,4.0,3.0,3.0,6.0,3.0,4.0,4.0,379
+1127,experiment group,hci,HCI Expert,4.0,4.0,3.0,3.0,6.0,3.0,4.0,4.0,379
+1127,experiment group,Philosopher,Philosopher/Ethicist,4.0,4.0,2.0,5.0,5.0,3.0,3.0,4.0,379
+1127,experiment group,innovation,Innovation/Strategy Expert,5.0,5.0,4.0,5.0,6.0,3.0,4.0,5.0,379
+1129,experiment group,design_thinking,Design Thinking Expert,4.0,4.0,4.0,4.0,4.0,3.0,2.0,4.0,552
+1129,experiment group,social_psych,Social Psychology Researcher,4.0,4.0,4.0,3.0,4.0,3.0,3.0,4.0,552
+1129,experiment group,hci,HCI Expert,5.0,5.0,5.0,4.0,5.0,3.0,2.0,5.0,552
+1129,experiment group,Philosopher,Philosopher/Ethicist,5.0,6.0,6.0,6.0,6.0,3.0,2.0,6.0,552
+1129,experiment group,innovation,Innovation/Strategy Expert,5.0,5.0,6.0,5.0,6.0,3.0,2.0,5.0,552
+1133,experiment group,design_thinking,Design Thinking Expert,3.0,3.0,4.0,3.0,4.0,3.0,6.0,3.0,804
+1133,experiment group,social_psych,Social Psychology Researcher,3.0,3.0,5.0,4.0,5.0,3.0,4.0,4.0,804
+1133,experiment group,hci,HCI Expert,3.0,3.0,3.0,3.0,3.0,3.0,6.0,3.0,804
+1133,experiment group,Philosopher,Philosopher/Ethicist,3.0,3.0,3.0,3.0,3.0,2.0,3.0,3.0,804
+1133,experiment group,innovation,Innovation/Strategy Expert,3.0,3.0,5.0,3.0,4.0,3.0,6.0,3.0,804
+1135,control group,design_thinking,Design Thinking Expert,4.0,5.0,5.0,4.0,6.0,2.0,6.0,5.0,720
+1135,control group,social_psych,Social Psychology Researcher,4.0,5.0,6.0,5.0,5.0,4.0,5.0,5.0,720
+1135,control group,hci,HCI Expert,3.0,5.0,5.0,3.0,4.0,2.0,5.0,4.0,720
+1135,control group,Philosopher,Philosopher/Ethicist,2.0,4.0,4.0,3.0,4.0,2.0,4.0,4.0,720
+1135,control group,innovation,Innovation/Strategy Expert,2.0,4.0,6.0,4.0,4.0,2.0,4.0,4.0,720
+1137,experiment group,design_thinking,Design Thinking Expert,2.0,5.0,2.0,3.0,5.0,4.0,4.0,4.0,521
+1137,experiment group,social_psych,Social Psychology Researcher,3.0,4.0,3.0,3.0,5.0,4.0,5.0,4.0,521
+1137,experiment group,hci,HCI Expert,3.0,5.0,2.0,2.0,6.0,3.0,3.0,3.0,521
+1137,experiment group,Philosopher,Philosopher/Ethicist,3.0,6.0,2.0,3.0,5.0,4.0,5.0,4.0,521
+1137,experiment group,innovation,Innovation/Strategy Expert,2.0,5.0,2.0,3.0,6.0,3.0,4.0,3.0,521
+1141,experiment group,design_thinking,Design Thinking Expert,5.0,5.0,5.0,3.0,3.0,3.0,5.0,5.0,505
+1141,experiment group,social_psych,Social Psychology Researcher,4.0,4.0,4.0,3.0,3.0,4.0,5.0,4.0,505
+1141,experiment group,hci,HCI Expert,4.0,5.0,4.0,3.0,3.0,4.0,4.0,4.0,505
+1141,experiment group,Philosopher,Philosopher/Ethicist,5.0,5.0,5.0,2.0,2.0,4.0,6.0,5.0,505
+1141,experiment group,innovation,Innovation/Strategy Expert,4.0,6.0,5.0,3.0,3.0,3.0,5.0,4.0,505
+1143,experiment group,design_thinking,Design Thinking Expert,3.0,5.0,5.0,6.0,3.0,5.0,2.0,5.0,492
+1143,experiment group,social_psych,Social Psychology Researcher,4.0,4.0,6.0,5.0,4.0,6.0,1.0,4.0,492
+1143,experiment group,hci,HCI Expert,3.0,3.0,4.0,5.0,3.0,4.0,1.0,3.0,492
+1143,experiment group,Philosopher,Philosopher/Ethicist,4.0,6.0,6.0,5.0,4.0,6.0,2.0,5.0,492
+1143,experiment group,innovation,Innovation/Strategy Expert,2.0,3.0,5.0,5.0,4.0,6.0,1.0,4.0,492
+1145,experiment group,design_thinking,Design Thinking Expert,5.0,5.0,4.0,5.0,6.0,3.0,4.0,5.0,611
+1145,experiment group,social_psych,Social Psychology Researcher,5.0,6.0,6.0,5.0,6.0,3.0,6.0,6.0,611
+1145,experiment group,hci,HCI Expert,3.0,5.0,5.0,5.0,5.0,3.0,4.0,5.0,611
+1145,experiment group,Philosopher,Philosopher/Ethicist,5.0,4.0,4.0,5.0,6.0,3.0,3.0,4.0,611
+1145,experiment group,innovation,Innovation/Strategy Expert,3.0,5.0,4.0,5.0,5.0,3.0,4.0,4.0,611
+1147,control group,design_thinking,Design Thinking Expert,2.0,5.0,5.0,4.0,3.0,1.0,5.0,4.0,789
+1147,control group,social_psych,Social Psychology Researcher,3.0,6.0,5.0,5.0,5.0,3.0,6.0,5.0,789
+1147,control group,hci,HCI Expert,1.0,5.0,6.0,4.0,4.0,2.0,6.0,4.0,789
+1147,control group,Philosopher,Philosopher/Ethicist,2.0,4.0,5.0,5.0,5.0,3.0,6.0,5.0,789
+1147,control group,innovation,Innovation/Strategy Expert,3.0,4.0,5.0,5.0,5.0,2.0,6.0,5.0,789
+1151,experiment group,design_thinking,Design Thinking Expert,2.0,3.0,3.0,4.0,4.0,3.0,5.0,3.0,1997
+1151,experiment group,social_psych,Social Psychology Researcher,2.0,3.0,4.0,6.0,6.0,2.0,6.0,4.0,1997
+1151,experiment group,hci,HCI Expert,2.0,3.0,3.0,6.0,6.0,1.0,6.0,3.0,1997
+1151,experiment group,Philosopher,Philosopher/Ethicist,2.0,2.0,3.0,3.0,5.0,1.0,4.0,3.0,1997
+1151,experiment group,innovation,Innovation/Strategy Expert,2.0,2.0,3.0,5.0,4.0,1.0,4.0,3.0,1997
+1155,experiment group,design_thinking,Design Thinking Expert,2.0,6.0,6.0,6.0,6.0,3.0,3.0,6.0,899
+1155,experiment group,social_psych,Social Psychology Researcher,2.0,3.0,3.0,3.0,3.0,3.0,2.0,3.0,899
+1155,experiment group,hci,HCI Expert,1.0,6.0,6.0,4.0,5.0,4.0,3.0,4.0,899
+1155,experiment group,Philosopher,Philosopher/Ethicist,1.0,4.0,4.0,4.0,5.0,4.0,5.0,4.0,899
+1155,experiment group,innovation,Innovation/Strategy Expert,2.0,5.0,5.0,5.0,5.0,4.0,4.0,5.0,899
+1157,experiment group,design_thinking,Design Thinking Expert,3.0,5.0,6.0,4.0,3.0,6.0,2.0,4.0,470
+1157,experiment group,social_psych,Social Psychology Researcher,4.0,5.0,5.0,4.0,4.0,5.0,3.0,4.0,470
+1157,experiment group,hci,HCI Expert,4.0,5.0,6.0,5.0,3.0,6.0,1.0,5.0,470
+1157,experiment group,Philosopher,Philosopher/Ethicist,3.0,4.0,5.0,3.0,4.0,6.0,1.0,4.0,470
+1157,experiment group,innovation,Innovation/Strategy Expert,4.0,6.0,6.0,5.0,5.0,5.0,3.0,5.0,470
+1159,experiment group,design_thinking,Design Thinking Expert,6.0,3.0,5.0,5.0,3.0,6.0,6.0,5.0,542
+1159,experiment group,social_psych,Social Psychology Researcher,6.0,4.0,6.0,6.0,3.0,6.0,4.0,6.0,542
+1159,experiment group,hci,HCI Expert,6.0,4.0,5.0,4.0,2.0,6.0,5.0,5.0,542
+1159,experiment group,Philosopher,Philosopher/Ethicist,6.0,4.0,6.0,5.0,4.0,6.0,6.0,6.0,542
+1159,experiment group,innovation,Innovation/Strategy Expert,6.0,3.0,6.0,4.0,2.0,6.0,6.0,6.0,542
+1161,experiment group,design_thinking,Design Thinking Expert,5.0,5.0,5.0,5.0,5.0,5.0,4.0,5.0,959
+1161,experiment group,social_psych,Social Psychology Researcher,3.0,4.0,4.0,3.0,4.0,5.0,4.0,4.0,959
+1161,experiment group,hci,HCI Expert,4.0,4.0,5.0,4.0,4.0,6.0,5.0,4.0,959
+1161,experiment group,Philosopher,Philosopher/Ethicist,4.0,5.0,5.0,4.0,4.0,6.0,5.0,5.0,959
+1161,experiment group,innovation,Innovation/Strategy Expert,4.0,4.0,4.0,3.0,4.0,5.0,5.0,4.0,959
+1165,control group,design_thinking,Design Thinking Expert,2.0,2.0,2.0,5.0,5.0,1.0,3.0,2.0,905
+1165,control group,social_psych,Social Psychology Researcher,2.0,2.0,4.0,5.0,5.0,3.0,4.0,4.0,905
+1165,control group,hci,HCI Expert,2.0,2.0,3.0,5.0,4.0,1.0,3.0,3.0,905
+1165,control group,Philosopher,Philosopher/Ethicist,3.0,3.0,3.0,5.0,5.0,2.0,4.0,3.0,905
+1165,control group,innovation,Innovation/Strategy Expert,3.0,3.0,3.0,5.0,4.0,3.0,4.0,3.0,905
+1167,experiment group,design_thinking,Design Thinking Expert,4.0,4.0,5.0,5.0,5.0,2.0,1.0,4.0,651
+1167,experiment group,social_psych,Social Psychology Researcher,3.0,3.0,6.0,5.0,6.0,1.0,1.0,3.0,651
+1167,experiment group,hci,HCI Expert,3.0,3.0,4.0,4.0,4.0,3.0,1.0,3.0,651
+1167,experiment group,Philosopher,Philosopher/Ethicist,3.0,3.0,6.0,6.0,6.0,3.0,1.0,3.0,651
+1167,experiment group,innovation,Innovation/Strategy Expert,3.0,3.0,3.0,2.0,3.0,3.0,1.0,3.0,651
+1171,control group,design_thinking,Design Thinking Expert,4.0,4.0,5.0,3.0,3.0,3.0,1.0,3.0,824
+1171,control group,social_psych,Social Psychology Researcher,4.0,4.0,5.0,2.0,2.0,2.0,1.0,2.0,824
+1171,control group,hci,HCI Expert,2.0,3.0,3.0,2.0,2.0,3.0,1.0,2.0,824
+1171,control group,Philosopher,Philosopher/Ethicist,3.0,3.0,3.0,3.0,2.0,3.0,1.0,3.0,824
+1171,control group,innovation,Innovation/Strategy Expert,3.0,4.0,3.0,3.0,3.0,3.0,1.0,3.0,824
+1173,experiment group,design_thinking,Design Thinking Expert,5.0,5.0,5.0,5.0,5.0,6.0,5.0,5.0,509
+1173,experiment group,social_psych,Social Psychology Researcher,6.0,4.0,4.0,4.0,6.0,6.0,5.0,5.0,509
+1173,experiment group,hci,HCI Expert,6.0,4.0,2.0,4.0,5.0,6.0,5.0,5.0,509
+1173,experiment group,Philosopher,Philosopher/Ethicist,5.0,4.0,4.0,2.0,5.0,6.0,5.0,5.0,509
+1173,experiment group,innovation,Innovation/Strategy Expert,6.0,4.0,2.0,3.0,4.0,6.0,6.0,4.0,509
+1175,control group,design_thinking,Design Thinking Expert,4.0,3.0,5.0,5.0,5.0,2.0,5.0,5.0,513
+1175,control group,social_psych,Social Psychology Researcher,5.0,4.0,5.0,4.0,5.0,3.0,6.0,5.0,513
+1175,control group,hci,HCI Expert,5.0,4.0,6.0,6.0,5.0,2.0,6.0,5.0,513
+1175,control group,Philosopher,Philosopher/Ethicist,4.0,4.0,6.0,6.0,6.0,3.0,6.0,6.0,513
+1175,control group,innovation,Innovation/Strategy Expert,4.0,4.0,5.0,4.0,6.0,3.0,5.0,4.0,513
+1177,control group,design_thinking,Design Thinking Expert,3.0,3.0,3.0,3.0,3.0,4.0,1.0,3.0,781
+1177,control group,social_psych,Social Psychology Researcher,3.0,4.0,3.0,3.0,5.0,4.0,3.0,3.0,781
+1177,control group,hci,HCI Expert,3.0,4.0,4.0,3.0,5.0,3.0,1.0,3.0,781
+1177,control group,Philosopher,Philosopher/Ethicist,4.0,4.0,4.0,3.0,4.0,3.0,1.0,4.0,781
+1177,control group,innovation,Innovation/Strategy Expert,4.0,4.0,5.0,4.0,5.0,4.0,1.0,4.0,781
+1179,experiment group,design_thinking,Design Thinking Expert,5.0,4.0,5.0,5.0,5.0,3.0,5.0,5.0,628
+1179,experiment group,social_psych,Social Psychology Researcher,6.0,5.0,5.0,4.0,3.0,3.0,6.0,5.0,628
+1179,experiment group,hci,HCI Expert,5.0,5.0,4.0,5.0,5.0,3.0,5.0,5.0,628
+1179,experiment group,Philosopher,Philosopher/Ethicist,5.0,5.0,4.0,5.0,5.0,2.0,5.0,5.0,628
+1179,experiment group,innovation,Innovation/Strategy Expert,6.0,6.0,6.0,5.0,6.0,1.0,6.0,6.0,628
+1183,experiment group,design_thinking,Design Thinking Expert,2.0,6.0,5.0,2.0,5.0,3.0,2.0,3.0,1102
+1183,experiment group,social_psych,Social Psychology Researcher,3.0,5.0,6.0,3.0,5.0,3.0,2.0,3.0,1102
+1183,experiment group,hci,HCI Expert,2.0,5.0,4.0,4.0,4.0,3.0,1.0,4.0,1102
+1183,experiment group,Philosopher,Philosopher/Ethicist,4.0,5.0,6.0,4.0,5.0,3.0,1.0,4.0,1102
+1183,experiment group,innovation,Innovation/Strategy Expert,2.0,6.0,5.0,4.0,6.0,1.0,1.0,4.0,1102
+1185,control group,design_thinking,Design Thinking Expert,4.0,2.0,5.0,5.0,6.0,3.0,2.0,4.0,275
+1185,control group,social_psych,Social Psychology Researcher,5.0,4.0,5.0,4.0,5.0,3.0,3.0,4.0,275
+1185,control group,hci,HCI Expert,4.0,3.0,5.0,4.0,5.0,3.0,3.0,4.0,275
+1185,control group,Philosopher,Philosopher/Ethicist,4.0,3.0,5.0,5.0,5.0,2.0,3.0,4.0,275
+1185,control group,innovation,Innovation/Strategy Expert,4.0,4.0,5.0,5.0,6.0,3.0,3.0,4.0,275
+1191,experiment group,design_thinking,Design Thinking Expert,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,1188
+1191,experiment group,social_psych,Social Psychology Researcher,3.0,5.0,6.0,5.0,5.0,4.0,5.0,5.0,1188
+1191,experiment group,hci,HCI Expert,3.0,5.0,6.0,5.0,5.0,4.0,5.0,5.0,1188
+1191,experiment group,Philosopher,Philosopher/Ethicist,3.0,4.0,5.0,5.0,5.0,4.0,5.0,5.0,1188
+1191,experiment group,innovation,Innovation/Strategy Expert,3.0,4.0,5.0,5.0,4.0,5.0,5.0,5.0,1188
+1195,control group,design_thinking,Design Thinking Expert,4.0,4.0,3.0,4.0,5.0,3.0,6.0,4.0,688
+1195,control group,social_psych,Social Psychology Researcher,4.0,5.0,3.0,5.0,5.0,3.0,6.0,5.0,688
+1195,control group,hci,HCI Expert,3.0,3.0,3.0,3.0,3.0,3.0,4.0,3.0,688
+1195,control group,Philosopher,Philosopher/Ethicist,5.0,5.0,2.0,5.0,5.0,3.0,5.0,5.0,688
+1195,control group,innovation,Innovation/Strategy Expert,4.0,6.0,3.0,6.0,6.0,3.0,6.0,6.0,688
+1197,experiment group,design_thinking,Design Thinking Expert,,,,,,,,,188
+1197,experiment group,social_psych,Social Psychology Researcher,4.0,4.0,5.0,4.0,4.0,3.0,2.0,4.0,188
+1197,experiment group,hci,HCI Expert,4.0,4.0,2.0,2.0,2.0,2.0,2.0,2.0,188
+1197,experiment group,Philosopher,Philosopher/Ethicist,2.0,3.0,3.0,2.0,2.0,2.0,2.0,2.0,188
+1197,experiment group,innovation,Innovation/Strategy Expert,4.0,5.0,4.0,3.0,4.0,2.0,3.0,4.0,188
+1199,experiment group,design_thinking,Design Thinking Expert,4.0,4.0,6.0,5.0,4.0,6.0,4.0,4.0,654
+1199,experiment group,social_psych,Social Psychology Researcher,4.0,4.0,5.0,4.0,4.0,5.0,3.0,4.0,654
+1199,experiment group,hci,HCI Expert,3.0,3.0,6.0,3.0,5.0,5.0,2.0,3.0,654
+1199,experiment group,Philosopher,Philosopher/Ethicist,4.0,4.0,5.0,3.0,5.0,4.0,2.0,4.0,654
+1199,experiment group,innovation,Innovation/Strategy Expert,3.0,4.0,6.0,4.0,6.0,6.0,3.0,4.0,654
+1201,experiment group,design_thinking,Design Thinking Expert,4.0,5.0,5.0,3.0,3.0,2.0,6.0,4.0,397
+1201,experiment group,social_psych,Social Psychology Researcher,3.0,3.0,2.0,3.0,3.0,3.0,5.0,3.0,397
+1201,experiment group,hci,HCI Expert,3.0,4.0,4.0,4.0,4.0,2.0,5.0,4.0,397
+1201,experiment group,Philosopher,Philosopher/Ethicist,2.0,3.0,3.0,2.0,2.0,1.0,4.0,2.0,397
+1201,experiment group,innovation,Innovation/Strategy Expert,3.0,3.0,2.0,2.0,2.0,2.0,3.0,2.0,397
+1203,control group,design_thinking,Design Thinking Expert,5.0,5.0,5.0,5.0,5.0,2.0,4.0,5.0,1173
+1203,control group,social_psych,Social Psychology Researcher,5.0,5.0,5.0,5.0,5.0,2.0,2.0,5.0,1173
+1203,control group,hci,HCI Expert,5.0,6.0,5.0,5.0,5.0,3.0,3.0,5.0,1173
+1203,control group,Philosopher,Philosopher/Ethicist,6.0,6.0,5.0,5.0,5.0,3.0,3.0,5.0,1173
+1203,control group,innovation,Innovation/Strategy Expert,6.0,5.0,5.0,5.0,5.0,2.0,3.0,5.0,1173
+1211,experiment group,design_thinking,Design Thinking Expert,2.0,3.0,2.0,2.0,4.0,5.0,2.0,2.0,584
+1211,experiment group,social_psych,Social Psychology Researcher,2.0,3.0,3.0,3.0,3.0,5.0,3.0,3.0,584
+1211,experiment group,hci,HCI Expert,1.0,3.0,2.0,2.0,2.0,4.0,1.0,2.0,584
+1211,experiment group,Philosopher,Philosopher/Ethicist,3.0,3.0,1.0,1.0,3.0,4.0,3.0,3.0,584
+1211,experiment group,innovation,Innovation/Strategy Expert,2.0,3.0,2.0,2.0,3.0,6.0,5.0,3.0,584
+1217,control group,design_thinking,Design Thinking Expert,3.0,4.0,3.0,3.0,3.0,2.0,6.0,3.0,618
+1217,control group,social_psych,Social Psychology Researcher,4.0,5.0,5.0,2.0,4.0,3.0,6.0,4.0,618
+1217,control group,hci,HCI Expert,3.0,3.0,5.0,3.0,5.0,2.0,4.0,3.0,618
+1217,control group,Philosopher,Philosopher/Ethicist,4.0,4.0,6.0,4.0,5.0,3.0,6.0,4.0,618
+1217,control group,innovation,Innovation/Strategy Expert,5.0,3.0,3.0,3.0,3.0,1.0,5.0,3.0,618
+1219,experiment group,design_thinking,Design Thinking Expert,2.0,3.0,2.0,3.0,2.0,2.0,4.0,2.0,1465
+1219,experiment group,social_psych,Social Psychology Researcher,3.0,5.0,3.0,3.0,2.0,2.0,6.0,3.0,1465
+1219,experiment group,hci,HCI Expert,3.0,3.0,3.0,3.0,3.0,2.0,4.0,3.0,1465
+1219,experiment group,Philosopher,Philosopher/Ethicist,3.0,3.0,4.0,3.0,3.0,1.0,5.0,3.0,1465
+1219,experiment group,innovation,Innovation/Strategy Expert,3.0,4.0,3.0,4.0,3.0,3.0,6.0,3.0,1465
+1223,control group,design_thinking,Design Thinking Expert,2.0,2.0,3.0,3.0,3.0,2.0,6.0,3.0,434
+1223,control group,social_psych,Social Psychology Researcher,3.0,4.0,3.0,6.0,6.0,2.0,5.0,4.0,434
+1223,control group,hci,HCI Expert,5.0,4.0,3.0,5.0,5.0,3.0,6.0,5.0,434
+1223,control group,Philosopher,Philosopher/Ethicist,4.0,4.0,2.0,3.0,3.0,3.0,5.0,3.0,434
+1223,control group,innovation,Innovation/Strategy Expert,3.0,3.0,3.0,3.0,3.0,2.0,3.0,3.0,434
